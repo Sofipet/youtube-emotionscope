@@ -184,11 +184,11 @@ git clone https://github.com/YOUR_USERNAME/youtube-emotionscope.git
 cd youtube-emotionscope
 pip install -r requirements.txt
 
-OPENAI_API_KEY=your_openai_api_key
-YOUTUBE_API_KEY=your_youtube_api_key
-APP_ENV=development
-APP_ACCESS_TOKEN=your_access_token
-LIVE_REQUEST_LIMIT=3
+export OPENAI_API_KEY="your_openai_api_key"
+export YOUTUBE_API_KEY="your_youtube_api_key"
+export APP_ENV="development"
+export APP_ACCESS_TOKEN="your_access_token"
+export LIVE_REQUEST_LIMIT="3"
 
 uvicorn app.api:app --reload
 ```
