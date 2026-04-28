@@ -4,6 +4,15 @@ An LLM-first analytics app for exploring the emotional structure of YouTube comm
 
 - **Live demo:** [Render App](https://youtube-emotionscope.onrender.com/)
 
+## Interface preview
+
+- **Dashboard overview:**
+<img width="1258" height="474" alt="EmotionScope dashboard overview" src="https://github.com/user-attachments/assets/5ed4c4b5-88d1-4e8a-9bce-f6dab87b65e9" />
+
+
+- **Insight layer:**
+<img width="1251" height="573" alt="EmotionScope insight layer" src="https://github.com/user-attachments/assets/d0229efa-4b4c-482c-a9d8-2c8cbda1857b" />
+
 ## Overview
 
 Online discussions around war, violence, and public tragedy are emotionally dense, multilingual, and difficult to summarize quickly. EmotionScope transforms a single YouTube video link into a structured emotional analysis of its comment section.
