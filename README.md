@@ -15,7 +15,7 @@ An LLM-first analytics app for exploring the emotional structure of YouTube comm
 
 ## Overview
 
-Online discussions around war, violence, and public tragedy are emotionally dense, multilingual, and difficult to summarize quickly. EmotionScope transforms a single YouTube video link into a structured emotional analysis of its comment section.
+EmotionScope transforms a single YouTube video link into a structured emotional analysis of its comment section.
 
 The system is designed as a **bounded analytics product**, not a general chatbot. It combines a deterministic analysis pipeline with a lightweight insight layer to help users move from raw comments to interpretable emotional patterns, representative comments, language mix, timeline shifts, and short contextual summaries.
 
