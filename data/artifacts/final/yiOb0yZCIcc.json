@@ -1,0 +1,242 @@
+{
+  "saved_at": "2026-04-28T09:24:53.068256+00:00",
+  "artifact_type": "final",
+  "name": "yiOb0yZCIcc",
+  "payload": {
+    "video": {
+      "video_id": "yiOb0yZCIcc",
+      "video_url": "https://www.youtube.com/watch?v=yiOb0yZCIcc",
+      "title": "Росіяни поцілили по дитячій лікарні «Охматдит» у Києві",
+      "channel_title": "Суспільне Новини",
+      "published_at": "2024-07-08T09:50:31Z",
+      "comments_fetched": 261,
+      "comments_analyzed": 60,
+      "languages": [
+        {
+          "language_code": "uk",
+          "language_label": "Ukrainian",
+          "share": 0.53
+        },
+        {
+          "language_code": "ru",
+          "language_label": "Russian",
+          "share": 0.4147
+        },
+        {
+          "language_code": "other",
+          "language_label": "Other",
+          "share": 0.0553
+        }
+      ]
+    },
+    "top_primary_emotions": [
+      {
+        "emotion": "sadness",
+        "prevalence": 0.35,
+        "avg_intensity": 0.8186
+      },
+      {
+        "emotion": "anger",
+        "prevalence": 0.3333,
+        "avg_intensity": 0.8
+      },
+      {
+        "emotion": "fear",
+        "prevalence": 0.0833,
+        "avg_intensity": 0.76
+      },
+      {
+        "emotion": "anticipation",
+        "prevalence": 0.0833,
+        "avg_intensity": 0.55
+      },
+      {
+        "emotion": "disgust",
+        "prevalence": 0.0667,
+        "avg_intensity": 0.7575
+      }
+    ],
+    "top_nuanced_emotions": [
+      {
+        "emotion": "frustration",
+        "prevalence": 0.1,
+        "avg_intensity": 0.7917
+      },
+      {
+        "emotion": "helplessness",
+        "prevalence": 0.0667,
+        "avg_intensity": 0.7875
+      },
+      {
+        "emotion": "moral outrage",
+        "prevalence": 0.0333,
+        "avg_intensity": 0.9
+      }
+    ],
+    "valence": {
+      "positive": 0.0667,
+      "negative": 0.8333,
+      "mixed": 0.0,
+      "neutral": 0.1
+    },
+    "timeline": [
+      {
+        "date": "2024-07-08",
+        "comment_count": 58,
+        "primary_emotions": [
+          {
+            "emotion": "sadness",
+            "prevalence": 0.3621,
+            "avg_intensity": 0.8186
+          },
+          {
+            "emotion": "anger",
+            "prevalence": 0.3276,
+            "avg_intensity": 0.8026
+          },
+          {
+            "emotion": "fear",
+            "prevalence": 0.0862,
+            "avg_intensity": 0.76
+          },
+          {
+            "emotion": "anticipation",
+            "prevalence": 0.0862,
+            "avg_intensity": 0.55
+          },
+          {
+            "emotion": "disgust",
+            "prevalence": 0.069,
+            "avg_intensity": 0.7575
+          },
+          {
+            "emotion": "trust",
+            "prevalence": 0.0517,
+            "avg_intensity": 0.65
+          },
+          {
+            "emotion": "joy",
+            "prevalence": 0.0172,
+            "avg_intensity": 0.6
+          }
+        ],
+        "valence": {
+          "positive": 0.0517,
+          "negative": 0.8448,
+          "mixed": 0.0,
+          "neutral": 0.1034
+        }
+      },
+      {
+        "date": "2024-07-10",
+        "comment_count": 1,
+        "primary_emotions": [
+          {
+            "emotion": "joy",
+            "prevalence": 1.0,
+            "avg_intensity": 0.8
+          }
+        ],
+        "valence": {
+          "positive": 1.0,
+          "negative": 0.0,
+          "mixed": 0.0,
+          "neutral": 0.0
+        }
+      },
+      {
+        "date": "2024-07-14",
+        "comment_count": 1,
+        "primary_emotions": [
+          {
+            "emotion": "anger",
+            "prevalence": 1.0,
+            "avg_intensity": 0.75
+          }
+        ],
+        "valence": {
+          "positive": 0.0,
+          "negative": 1.0,
+          "mixed": 0.0,
+          "neutral": 0.0
+        }
+      }
+    ],
+    "warnings": [],
+    "description": "The comment section reflects a strong emotional pattern of sadness, closely followed by anger, as viewers express their grief and outrage over the targeted attack on a children's hospital in Kyiv. Many comments articulate feelings of helplessness and moral outrage, highlighting a deep frustration with the situation and a sense of personal loss, as seen in remarks like \"The world is cruel and foolish.\" This emotional landscape underscores the profound impact of the tragedy on individual commenters, while also acknowledging their cries for justice and support amidst increasing despair.",
+    "representative_comments": [
+      {
+        "comment_id": "UgwmyFpsumrqj9UFuY94AaABAg",
+        "primary_emotion": "sadness",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.95,
+        "valence": "negative",
+        "like_count": 35,
+        "text": "Господи,помоги.....земля       плачет и стонет от боли!!!!!!!!!"
+      },
+      {
+        "comment_id": "Ugw-SYYkOKJdbXT_M2B4AaABAg",
+        "primary_emotion": "sadness",
+        "nuanced_emotion": "helplessness",
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 90,
+        "text": "Господи! Зроби так, щоб жодного прихильника ,,руського мира,, не обминула нагода відчути його на собі так, як відчули його ці діточки та мешканці зруйнованих осель, а також рідні загиблих та поранених!!! Хай буде на це воля твоя Господи!!!! Амінь!...🙏🙏🙏"
+      },
+      {
+        "comment_id": "Ugx0AdbG5M4C-wfwoHN4AaABAg",
+        "primary_emotion": "sadness",
+        "nuanced_emotion": "helplessness",
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 50,
+        "text": "Світу не болить, болять рани тільки українцям. Чекати допомоги ні від кого. Світ жорстокий і дурний."
+      },
+      {
+        "comment_id": "UgzRjqTJKYQqGwECN2B4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": "moral outrage",
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 49,
+        "text": "Я вас тепер буду потвори живцем їсти.\nМотивації ви достатньо мені додали."
+      },
+      {
+        "comment_id": "UgylVYlcogiabd3nsTV4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": "moral outrage",
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 13,
+        "text": "То о. Россияне земляки що ви творите бог карати буде за те зло що ви творите в\nУкраину особливо за дітеи 9а невіннукровь и сльози матерів"
+      },
+      {
+        "comment_id": "UgxHGmxLoT5vPG20uHp4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 6,
+        "text": "Де наша зброя.Третій рік,а все залежні від когось,від подачок.Б'ють бо знають відповідати не має чим.Тільки соплі жують,на жалість давлять.А люди гинуть,діти гинуть,захисту не має."
+      },
+      {
+        "comment_id": "Ugx9h-cky1jhdfYodFl4AaABAg",
+        "primary_emotion": "fear",
+        "nuanced_emotion": "frustration",
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 1,
+        "text": "БОЖЕ ДОПОМОЖИ УКРАЇНІ, ЗАХИСТИ НАС. ЗУПИНИ ВІЙНУ, ЗУПИНИ путіна.😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢"
+      },
+      {
+        "comment_id": "Ugzj8J0mPIUMM__ySXJ4AaABAg",
+        "primary_emotion": "sadness",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 0,
+        "text": "Боже де ти? 😢💔😞🫂"
+      }
+    ]
+  }
+}

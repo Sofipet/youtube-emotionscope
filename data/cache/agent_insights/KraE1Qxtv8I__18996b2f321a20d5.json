@@ -1,0 +1,20 @@
+{
+  "saved_at": "2026-04-28T08:42:13.388549+00:00",
+  "type": "agent_insight",
+  "cache_key": "KraE1Qxtv8I__18996b2f321a20d5",
+  "video_id": "KraE1Qxtv8I",
+  "question": "Why is anger dominant here, and what do the comments suggest?",
+  "payload": {
+    "answer": "Anger is dominant in this discourse, with a prevalence of 30% and an average intensity of 0.7972. The comments reflect this sentiment, with many expressing outrage over perceived injustices, such as attacks on vulnerable populations, particularly children, which resonates strongly with viewers.",
+    "suggested_followups": [
+      "Analyze the impact of sadness in the comments.",
+      "Explore the context of the video that triggered this anger.",
+      "Investigate how viewer demographics influence emotional responses."
+    ],
+    "tools_used": [
+      "get_top_primary_emotions",
+      "get_valence_distribution",
+      "get_representative_comments"
+    ]
+  }
+}

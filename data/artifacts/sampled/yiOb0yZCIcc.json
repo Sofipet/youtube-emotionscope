@@ -1,0 +1,558 @@
+{
+  "saved_at": "2026-04-28T09:23:31.300662+00:00",
+  "artifact_type": "sampled",
+  "name": "yiOb0yZCIcc",
+  "payload": {
+    "warnings": [],
+    "stats": {
+      "raw_comments": 261,
+      "after_cleaning": 252,
+      "sampled_comments": 60,
+      "removed_empty": 0,
+      "removed_low_value": 3,
+      "removed_duplicates": 6
+    },
+    "comments": [
+      {
+        "comment_id": "UgzWWNPVIpXo2U0zbZh4AaABAg",
+        "published_at": "2024-07-08T09:54:54Z",
+        "like_count": 45,
+        "reply_count": 0,
+        "text_original": "Жалко дуже жалко",
+        "text_clean": "Жалко дуже жалко",
+        "author_display_name": "@ValentinaMinkovskaya"
+      },
+      {
+        "comment_id": "UgxErtevIV5NxNv9MmZ4AaABAg",
+        "published_at": "2024-07-08T10:05:22Z",
+        "like_count": 26,
+        "reply_count": 0,
+        "text_original": "СЕРДЦЕ остановилось......",
+        "text_clean": "СЕРДЦЕ остановилось......",
+        "author_display_name": "@ЛюбовьАстраханцева-п6з"
+      },
+      {
+        "comment_id": "UgzXjw6bQprnaORfYAx4AaABAg",
+        "published_at": "2024-07-08T10:06:09Z",
+        "like_count": 72,
+        "reply_count": 0,
+        "text_original": "Боже, який жах.... 😢😢😢",
+        "text_clean": "Боже, який жах.... 😢😢😢",
+        "author_display_name": "@olhapetryshyn1773"
+      },
+      {
+        "comment_id": "UgzJkimzivbXz99H7K94AaABAg",
+        "published_at": "2024-07-08T10:08:37Z",
+        "like_count": 81,
+        "reply_count": 0,
+        "text_original": "Боже спаси нас грішних .😔 Хіба ці діти , ці батьки мало страждають ?",
+        "text_clean": "Боже спаси нас грішних .😔 Хіба ці діти , ці батьки мало страждають ?",
+        "author_display_name": "@svitlanakrotik"
+      },
+      {
+        "comment_id": "UgwegtK_eT0l1spRer54AaABAg",
+        "published_at": "2024-07-08T10:10:33Z",
+        "like_count": 38,
+        "reply_count": 2,
+        "text_original": "Кінчати треба цю війну.",
+        "text_clean": "Кінчати треба цю війну.",
+        "author_display_name": "@байрактар-м9е"
+      },
+      {
+        "comment_id": "UgylvPIOloSSszsswCh4AaABAg",
+        "published_at": "2024-07-08T10:11:17Z",
+        "like_count": 279,
+        "reply_count": 30,
+        "text_original": "Оці  Скоти так хочють миру. Нічого людського немае. !",
+        "text_clean": "Оці Скоти так хочють миру. Нічого людського немае. !",
+        "author_display_name": "@АллаЮдько"
+      },
+      {
+        "comment_id": "Ugy6a4k26QRcHfdCbG54AaABAg",
+        "published_at": "2024-07-08T10:12:20Z",
+        "like_count": 8,
+        "reply_count": 0,
+        "text_original": "У вас совість є в такі повідомлення пускати рекламу реклаиістів на нульову",
+        "text_clean": "У вас совість є в такі повідомлення пускати рекламу реклаиістів на нульову",
+        "author_display_name": "@НадяПетренко-ь5я"
+      },
+      {
+        "comment_id": "UgyzaBe_p6M6LPdsfMp4AaABAg",
+        "published_at": "2024-07-08T10:12:28Z",
+        "like_count": 46,
+        "reply_count": 1,
+        "text_original": "Хай Господь  покарає всіх причетних,бо люди вже не в змозі😢",
+        "text_clean": "Хай Господь покарає всіх причетних,бо люди вже не в змозі😢",
+        "author_display_name": "@mayika284"
+      },
+      {
+        "comment_id": "UgyOtHhsROCYA4EeZ294AaABAg",
+        "published_at": "2024-07-08T10:14:45Z",
+        "like_count": 403,
+        "reply_count": 61,
+        "text_original": "Там же не просто діти ,там хворі дітки ,які вже намучились ,як це можливо ?Куди дивиться світ ?Це жах жахливий.",
+        "text_clean": "Там же не просто діти ,там хворі дітки ,які вже намучились ,як це можливо ?Куди дивиться світ ?Це жах жахливий.",
+        "author_display_name": "@РаісаТеща"
+      },
+      {
+        "comment_id": "UgzQiQuz3wSml1PSlnJ4AaABAg",
+        "published_at": "2024-07-08T10:14:45Z",
+        "like_count": 1,
+        "reply_count": 1,
+        "text_original": "Боже тікайте ,не дайБоже буде повтор",
+        "text_clean": "Боже тікайте ,не дайБоже буде повтор",
+        "author_display_name": "@ЛідіяКрівенченко"
+      },
+      {
+        "comment_id": "Ugzt7qQ1lDl8zSvvEHF4AaABAg",
+        "published_at": "2024-07-08T10:15:34Z",
+        "like_count": 78,
+        "reply_count": 0,
+        "text_original": "Боже,скільки дітей залишили без лікування! Хай це все закінчиться скоріше!",
+        "text_clean": "Боже,скільки дітей залишили без лікування! Хай це все закінчиться скоріше!",
+        "author_display_name": "@nataliyaleo"
+      },
+      {
+        "comment_id": "UgzRjqTJKYQqGwECN2B4AaABAg",
+        "published_at": "2024-07-08T10:16:57Z",
+        "like_count": 49,
+        "reply_count": 0,
+        "text_original": "Я вас тепер буду потвори живцем їсти.\nМотивації ви достатньо мені додали.",
+        "text_clean": "Я вас тепер буду потвори живцем їсти. Мотивації ви достатньо мені додали.",
+        "author_display_name": "@1sakurasun"
+      },
+      {
+        "comment_id": "UgzJOCPPFeIbeOywWdZ4AaABAg",
+        "published_at": "2024-07-08T10:17:36Z",
+        "like_count": 69,
+        "reply_count": 7,
+        "text_original": "Жахіття в тому що поцілили відділення де робили діаліз дітям , в Україні дітям тільки там є можливість це робити .",
+        "text_clean": "Жахіття в тому що поцілили відділення де робили діаліз дітям , в Україні дітям тільки там є можливість це робити .",
+        "author_display_name": "@ОксанаСаблина-г8н"
+      },
+      {
+        "comment_id": "UgymmzueE9JG87yxj0B4AaABAg",
+        "published_at": "2024-07-08T10:19:43Z",
+        "like_count": 9,
+        "reply_count": 0,
+        "text_original": "Як тільки всередині країни  почалися хвилювання так і прилетів тригер для  гніву і ненависті  .",
+        "text_clean": "Як тільки всередині країни почалися хвилювання так і прилетів тригер для гніву і ненависті .",
+        "author_display_name": "@trueman2646"
+      },
+      {
+        "comment_id": "UgzL1plUAgTowMHe4IB4AaABAg",
+        "published_at": "2024-07-08T10:20:08Z",
+        "like_count": 78,
+        "reply_count": 8,
+        "text_original": "І куди дивиться світова спільнота, де Асамблеї ,ООН, Червоний хрест?????",
+        "text_clean": "І куди дивиться світова спільнота, де Асамблеї ,ООН, Червоний хрест?????",
+        "author_display_name": "@МайяЛисенко"
+      },
+      {
+        "comment_id": "UgxnF1sX3vY5Z5fru494AaABAg",
+        "published_at": "2024-07-08T10:22:51Z",
+        "like_count": 208,
+        "reply_count": 11,
+        "text_original": "«Гарний хлопець путін», як каже Трамп.\nЦей мир - хворий.",
+        "text_clean": "«Гарний хлопець путін», як каже Трамп. Цей мир - хворий.",
+        "author_display_name": "@tamarakyiv1076"
+      },
+      {
+        "comment_id": "Ugz3He2YvUxb9PpfuJF4AaABAg",
+        "published_at": "2024-07-08T10:23:19Z",
+        "like_count": 7,
+        "reply_count": 1,
+        "text_original": "Планета Земля здає екзамен на людяність. Кожен отримає своє. Як допомогти?",
+        "text_clean": "Планета Земля здає екзамен на людяність. Кожен отримає своє. Як допомогти?",
+        "author_display_name": "@svetlanabelous6209"
+      },
+      {
+        "comment_id": "UgwmyFpsumrqj9UFuY94AaABAg",
+        "published_at": "2024-07-08T10:25:25Z",
+        "like_count": 35,
+        "reply_count": 1,
+        "text_original": "Господи,помоги.....земля       плачет и стонет от боли!!!!!!!!!",
+        "text_clean": "Господи,помоги.....земля плачет и стонет от боли!!!!!!!!!",
+        "author_display_name": "@РитаРослякова"
+      },
+      {
+        "comment_id": "UgzkDAsWp4rtq4z2nnd4AaABAg",
+        "published_at": "2024-07-08T10:26:31Z",
+        "like_count": 67,
+        "reply_count": 4,
+        "text_original": "Господи Ісусе Христа Сину Божий  будь ласка захисти спаси і помилуй кожну дитину  український народ і всю нашу Україну",
+        "text_clean": "Господи Ісусе Христа Сину Божий будь ласка захисти спаси і помилуй кожну дитину український народ і всю нашу Україну",
+        "author_display_name": "@Оксана-я4т"
+      },
+      {
+        "comment_id": "UgwvNJ4UphfqEm3C6Dd4AaABAg",
+        "published_at": "2024-07-08T10:28:53Z",
+        "like_count": 7,
+        "reply_count": 1,
+        "text_original": "Що тут коментувати! Страшніше і сильніше цих фактів нічого не може бути! Дуже хотілось би, щоб українці за кордоном єфективніше підключались до розповсюдження інформаціі цих подій,не відмовчувались,особливо молодь. Вони ж це можуть добре робити!",
+        "text_clean": "Що тут коментувати! Страшніше і сильніше цих фактів нічого не може бути! Дуже хотілось би, щоб українці за кордоном єфективніше підключались до розповсюдження інформаціі цих подій,не відмовчувались,особливо молодь. Вони ж це можуть добре робити!",
+        "author_display_name": "@yuliasheremet9675"
+      },
+      {
+        "comment_id": "UgxmZpqwg3rUDJMo-ZJ4AaABAg",
+        "published_at": "2024-07-08T10:29:17Z",
+        "like_count": 8,
+        "reply_count": 2,
+        "text_original": "Не думаю що вона прямою наводкою туди летіла",
+        "text_clean": "Не думаю що вона прямою наводкою туди летіла",
+        "author_display_name": "@МирославОмельченко-к4с"
+      },
+      {
+        "comment_id": "UgzrUzDFpOzoa5JGln14AaABAg",
+        "published_at": "2024-07-08T10:34:43Z",
+        "like_count": 7,
+        "reply_count": 0,
+        "text_original": "Жах😢😢😢",
+        "text_clean": "Жах😢😢😢",
+        "author_display_name": "@НаталіяОпанасюк-ю5б"
+      },
+      {
+        "comment_id": "Ugw5wvhMeVHVgYZjdk94AaABAg",
+        "published_at": "2024-07-08T10:37:19Z",
+        "like_count": 8,
+        "reply_count": 3,
+        "text_original": "Тримайтеся це дно. Ніяких послаблень росіянам.",
+        "text_clean": "Тримайтеся це дно. Ніяких послаблень росіянам.",
+        "author_display_name": "@ОлегСемёнов-э4й"
+      },
+      {
+        "comment_id": "UgylVYlcogiabd3nsTV4AaABAg",
+        "published_at": "2024-07-08T10:40:15Z",
+        "like_count": 13,
+        "reply_count": 2,
+        "text_original": "То о. Россияне земляки що ви творите бог карати буде за те зло що ви творите в\nУкраину особливо за дітеи 9а невіннукровь и сльози матерів",
+        "text_clean": "То о. Россияне земляки що ви творите бог карати буде за те зло що ви творите в Украину особливо за дітеи 9а невіннукровь и сльози матерів",
+        "author_display_name": "@ТамараТамара-ч1ь"
+      },
+      {
+        "comment_id": "UgxHPe9SpL_RH1JKdEp4AaABAg",
+        "published_at": "2024-07-08T10:41:22Z",
+        "like_count": 2,
+        "reply_count": 0,
+        "text_original": "Да повернеться все вам\nГосподь сам знає",
+        "text_clean": "Да повернеться все вам Господь сам знає",
+        "author_display_name": "@ТаняІваненко-д4ц"
+      },
+      {
+        "comment_id": "Ugyq0BnON8cJs3Wy3dN4AaABAg",
+        "published_at": "2024-07-08T10:41:44Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Це бистріше всбоготак збило пво",
+        "text_clean": "Це бистріше всбоготак збило пво",
+        "author_display_name": "@МайяОджиковська"
+      },
+      {
+        "comment_id": "UgyuOevZni3vEM7wdNB4AaABAg",
+        "published_at": "2024-07-08T10:44:52Z",
+        "like_count": 13,
+        "reply_count": 0,
+        "text_original": "Жах. Суцільний жах.",
+        "text_clean": "Жах. Суцільний жах.",
+        "author_display_name": "@иринамандриголь-г5ь"
+      },
+      {
+        "comment_id": "UgzU4hotT3UYMC-sB0h4AaABAg",
+        "published_at": "2024-07-08T10:45:03Z",
+        "like_count": 9,
+        "reply_count": 0,
+        "text_original": "Світ хворий",
+        "text_clean": "Світ хворий",
+        "author_display_name": "@ИринаАкопджанян-ф6я"
+      },
+      {
+        "comment_id": "Ugwaec2orTKc4lTXHTB4AaABAg",
+        "published_at": "2024-07-08T10:46:51Z",
+        "like_count": 22,
+        "reply_count": 5,
+        "text_original": "Це таке примушення до миру! Б'ють по самому болючому, по нашим дітям 😢",
+        "text_clean": "Це таке примушення до миру! Б'ють по самому болючому, по нашим дітям 😢",
+        "author_display_name": "@КатеринаМарченко-р7о"
+      },
+      {
+        "comment_id": "UgxzzVvyQLTUDyQRayN4AaABAg",
+        "published_at": "2024-07-08T10:48:16Z",
+        "like_count": 47,
+        "reply_count": 3,
+        "text_original": "Оце і все що можна сказати про справедливість світу....",
+        "text_clean": "Оце і все що можна сказати про справедливість світу....",
+        "author_display_name": "@ПетроКремлянець"
+      },
+      {
+        "comment_id": "UgwD2U6KayELJsvASKt4AaABAg",
+        "published_at": "2024-07-08T10:49:56Z",
+        "like_count": 63,
+        "reply_count": 6,
+        "text_original": "Поки Москва не відчує жахи війни нічого не зміниться. В них там все прекрасно, путін - маладец 😡",
+        "text_clean": "Поки Москва не відчує жахи війни нічого не зміниться. В них там все прекрасно, путін - маладец 😡",
+        "author_display_name": "@КатеринаМарченко-р7о"
+      },
+      {
+        "comment_id": "UgwfxmLaKnc43lMwxxt4AaABAg",
+        "published_at": "2024-07-08T10:50:44Z",
+        "like_count": 17,
+        "reply_count": 0,
+        "text_original": "😢😢Господи,останови этот ужас👃👃👃",
+        "text_clean": "😢😢Господи,останови этот ужас👃👃👃",
+        "author_display_name": "@larisatynyanova7830"
+      },
+      {
+        "comment_id": "UgxHGmxLoT5vPG20uHp4AaABAg",
+        "published_at": "2024-07-08T10:53:34Z",
+        "like_count": 6,
+        "reply_count": 0,
+        "text_original": "Де наша зброя.Третій рік,а все залежні від когось,від подачок.Б'ють бо знають відповідати не має чим.Тільки соплі жують,на жалість давлять.А люди гинуть,діти гинуть,захисту не має.",
+        "text_clean": "Де наша зброя.Третій рік,а все залежні від когось,від подачок.Б'ють бо знають відповідати не має чим.Тільки соплі жують,на жалість давлять.А люди гинуть,діти гинуть,захисту не має.",
+        "author_display_name": "@2024-french"
+      },
+      {
+        "comment_id": "Ugxp-aImhaGjHyAd60J4AaABAg",
+        "published_at": "2024-07-08T10:55:59Z",
+        "like_count": 15,
+        "reply_count": 0,
+        "text_original": "БОЖЕ ЗБЕРЕЖИ ЖИТТЯ ДІТЕЙ",
+        "text_clean": "БОЖЕ ЗБЕРЕЖИ ЖИТТЯ ДІТЕЙ",
+        "author_display_name": "@ninamerrak4511"
+      },
+      {
+        "comment_id": "UgxoBlGwcijRATqN8P14AaABAg",
+        "published_at": "2024-07-08T10:58:18Z",
+        "like_count": 16,
+        "reply_count": 0,
+        "text_original": "Вони знають що ми так не зробим і радіють , це нелюди , мир хворий дивлючі на це . , і папа римський.",
+        "text_clean": "Вони знають що ми так не зробим і радіють , це нелюди , мир хворий дивлючі на це . , і папа римський.",
+        "author_display_name": "@ЮрийДозор"
+      },
+      {
+        "comment_id": "UgzUgkV3ccfCESh9sat4AaABAg",
+        "published_at": "2024-07-08T10:58:32Z",
+        "like_count": 6,
+        "reply_count": 4,
+        "text_original": "Путлера зупинить гідна відповідь ударами по Москві  але розміщення бити повним не дає захід тобто чи переговори чи нас по трошки знищать",
+        "text_clean": "Путлера зупинить гідна відповідь ударами по Москві але розміщення бити повним не дає захід тобто чи переговори чи нас по трошки знищать",
+        "author_display_name": "@qwertyqwerty-n6b"
+      },
+      {
+        "comment_id": "Ugxn2gT27mcQ8rr2X254AaABAg",
+        "published_at": "2024-07-08T10:58:42Z",
+        "like_count": 7,
+        "reply_count": 0,
+        "text_original": "Хіба можна це пробачати?",
+        "text_clean": "Хіба можна це пробачати?",
+        "author_display_name": "@ВолодимирКуркін"
+      },
+      {
+        "comment_id": "UgxmErmcwnqZlSEz85R4AaABAg",
+        "published_at": "2024-07-08T11:00:29Z",
+        "like_count": 14,
+        "reply_count": 2,
+        "text_original": "У Всього світу повинен вже увірватися терпець",
+        "text_clean": "У Всього світу повинен вже увірватися терпець",
+        "author_display_name": "@Marabu12"
+      },
+      {
+        "comment_id": "Ugx0AdbG5M4C-wfwoHN4AaABAg",
+        "published_at": "2024-07-08T11:14:46Z",
+        "like_count": 50,
+        "reply_count": 1,
+        "text_original": "Світу не болить, болять рани тільки українцям. Чекати допомоги ні від кого. Світ жорстокий і дурний.",
+        "text_clean": "Світу не болить, болять рани тільки українцям. Чекати допомоги ні від кого. Світ жорстокий і дурний.",
+        "author_display_name": "@ЛюдмилаКомар-щ7ж"
+      },
+      {
+        "comment_id": "Ugy9vK-o4GA-OuEo20h4AaABAg",
+        "published_at": "2024-07-08T11:15:54Z",
+        "like_count": 2,
+        "reply_count": 0,
+        "text_original": "И весь мир молчит",
+        "text_clean": "И весь мир молчит",
+        "author_display_name": "@ТаняЗ-ъ9ь"
+      },
+      {
+        "comment_id": "Ugy-W_U50vJ6DjNoGzV4AaABAg",
+        "published_at": "2024-07-08T11:24:29Z",
+        "like_count": 6,
+        "reply_count": 0,
+        "text_original": "Скоти",
+        "text_clean": "Скоти",
+        "author_display_name": "@ЛеонидМаркин-в8т"
+      },
+      {
+        "comment_id": "Ugxk1CxqmiD1CxuV0Ud4AaABAg",
+        "published_at": "2024-07-08T11:25:53Z",
+        "like_count": 10,
+        "reply_count": 2,
+        "text_original": "Орбана туда нужно пускай бы посмотрел что творит его путлер",
+        "text_clean": "Орбана туда нужно пускай бы посмотрел что творит его путлер",
+        "author_display_name": "@ЛарисаЗавет"
+      },
+      {
+        "comment_id": "Ugw-SYYkOKJdbXT_M2B4AaABAg",
+        "published_at": "2024-07-08T11:32:01Z",
+        "like_count": 90,
+        "reply_count": 7,
+        "text_original": "Господи! Зроби так, щоб жодного прихильника ,,руського мира,, не обминула нагода відчути його на собі так, як відчули його ці діточки та мешканці зруйнованих осель, а також рідні загиблих та поранених!!! Хай буде на це воля твоя Господи!!!! Амінь!...🙏🙏🙏",
+        "text_clean": "Господи! Зроби так, щоб жодного прихильника ,,руського мира,, не обминула нагода відчути його на собі так, як відчули його ці діточки та мешканці зруйнованих осель, а також рідні загиблих та поранених!!! Хай буде на це воля твоя Господи!!!! Амінь!...🙏🙏🙏",
+        "author_display_name": "@АнжелаУсова-к6я"
+      },
+      {
+        "comment_id": "UgxnpyzJwHPsDeaM3aZ4AaABAg",
+        "published_at": "2024-07-08T11:39:18Z",
+        "like_count": 14,
+        "reply_count": 0,
+        "text_original": "Просто нет слов, я россиянка я не на виду что творит моя страна, слезы, слезы, тяжело смотреть",
+        "text_clean": "Просто нет слов, я россиянка я не на виду что творит моя страна, слезы, слезы, тяжело смотреть",
+        "author_display_name": "@МаринаТалызина-ь7х"
+      },
+      {
+        "comment_id": "UgwYprw_saLHuetUtpJ4AaABAg",
+        "published_at": "2024-07-08T12:56:03Z",
+        "like_count": 3,
+        "reply_count": 1,
+        "text_original": "Кривавий театр нашого клоуна-рояліста. Ми гинемо - вони пилять бабло",
+        "text_clean": "Кривавий театр нашого клоуна-рояліста. Ми гинемо - вони пилять бабло",
+        "author_display_name": "@АндрейГригорьев-е4ъ"
+      },
+      {
+        "comment_id": "Ugx9h-cky1jhdfYodFl4AaABAg",
+        "published_at": "2024-07-08T13:12:22Z",
+        "like_count": 1,
+        "reply_count": 0,
+        "text_original": "БОЖЕ ДОПОМОЖИ УКРАЇНІ, ЗАХИСТИ НАС. ЗУПИНИ ВІЙНУ, ЗУПИНИ путіна.😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢",
+        "text_clean": "БОЖЕ ДОПОМОЖИ УКРАЇНІ, ЗАХИСТИ НАС. ЗУПИНИ ВІЙНУ, ЗУПИНИ путіна.😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢",
+        "author_display_name": "@ЛюдмилаЛеонтенко-у4л"
+      },
+      {
+        "comment_id": "UgwdNoWV-5l9biFQsNB4AaABAg",
+        "published_at": "2024-07-08T13:35:38Z",
+        "like_count": 1,
+        "reply_count": 0,
+        "text_original": "А В КОНЧЕЗАСПУ  НЕ ПОЦІЛИЛА РАКЕТА  ЧОМУ '???",
+        "text_clean": "А В КОНЧЕЗАСПУ НЕ ПОЦІЛИЛА РАКЕТА ЧОМУ '???",
+        "author_display_name": "@lesyanovak3913"
+      },
+      {
+        "comment_id": "UgwISbRLJ125cZ_QGJV4AaABAg",
+        "published_at": "2024-07-08T14:09:57Z",
+        "like_count": 1,
+        "reply_count": 0,
+        "text_original": "Господи, останови эти убийства🙏",
+        "text_clean": "Господи, останови эти убийства🙏",
+        "author_display_name": "@margaritaiulic7395"
+      },
+      {
+        "comment_id": "UgyaHy0y4BRf7LKAEup4AaABAg",
+        "published_at": "2024-07-08T14:13:58Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Хто в свiтi може це зупинити? ❤",
+        "text_clean": "Хто в свiтi може це зупинити? ❤",
+        "author_display_name": "@aldonakatiniene1305"
+      },
+      {
+        "comment_id": "Ugzj8J0mPIUMM__ySXJ4AaABAg",
+        "published_at": "2024-07-08T14:16:19Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Боже де ти? 😢💔😞🫂",
+        "text_clean": "Боже де ти? 😢💔😞🫂",
+        "author_display_name": "@svitlanakoval3257"
+      },
+      {
+        "comment_id": "Ugyu5BC1bqn2cbDVytV4AaABAg",
+        "published_at": "2024-07-08T14:49:20Z",
+        "like_count": 1,
+        "reply_count": 2,
+        "text_original": "Молодій мамі до цих пір не вдалося вивчити мову держави яка її захищає, вона і дальше спілкується мовою країни терористки.Невжеж так важко зрозуміти що вона цим підтримує росію!!!😢",
+        "text_clean": "Молодій мамі до цих пір не вдалося вивчити мову держави яка її захищає, вона і дальше спілкується мовою країни терористки.Невжеж так важко зрозуміти що вона цим підтримує росію!!!😢",
+        "author_display_name": "@rozaholovnya5311"
+      },
+      {
+        "comment_id": "Ugz9_XLE8DHywOyfbIV4AaABAg",
+        "published_at": "2024-07-08T14:51:02Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Целили скорей всего в министерство, попали в токсикологию совсем рядом",
+        "text_clean": "Целили скорей всего в министерство, попали в токсикологию совсем рядом",
+        "author_display_name": "@victorgames6366"
+      },
+      {
+        "comment_id": "Ugw8lDmq6i2VmMbRld14AaABAg",
+        "published_at": "2024-07-08T15:03:48Z",
+        "like_count": 1,
+        "reply_count": 0,
+        "text_original": "Появились кадры как над Киевом сбили ракету и она падает, почему ПВО стоит в городах мы пишем давно, так как все промышленные предприятия по сбору военной техники находятся в жилых кварталах.",
+        "text_clean": "Появились кадры как над Киевом сбили ракету и она падает, почему ПВО стоит в городах мы пишем давно, так как все промышленные предприятия по сбору военной техники находятся в жилых кварталах.",
+        "author_display_name": "@genrih2113"
+      },
+      {
+        "comment_id": "Ugx_H1WKpy1XlouJTiZ4AaABAg",
+        "published_at": "2024-07-08T16:51:01Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Ложь  !",
+        "text_clean": "Ложь !",
+        "author_display_name": "@Виктор-ш4д4я"
+      },
+      {
+        "comment_id": "UgzFbJ8x4p7aiU1k5D14AaABAg",
+        "published_at": "2024-07-08T16:59:30Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "А где пожарники⁉️⁉️⁉️разбирают завал,а дымит всё и  дымит,от дыма тоже можно погибнуть‼️‼️‼️‼️‼️‼️‼️",
+        "text_clean": "А где пожарники⁉️⁉️⁉️разбирают завал,а дымит всё и дымит,от дыма тоже можно погибнуть‼️‼️‼️‼️‼️‼️‼️",
+        "author_display_name": "@RADYGA-a"
+      },
+      {
+        "comment_id": "Ugy5eRdCS05fsKEsjt54AaABAg",
+        "published_at": "2024-07-08T17:03:54Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "То добре зробили,треба ще",
+        "text_clean": "То добре зробили,треба ще",
+        "author_display_name": "@SergeiCherniavskiy-kk4yy"
+      },
+      {
+        "comment_id": "Ugzre7ujvKOJrpjboGF4AaABAg",
+        "published_at": "2024-07-08T17:24:24Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Это ракета пво nasams",
+        "text_clean": "Это ракета пво nasams",
+        "author_display_name": "@Matr007"
+      },
+      {
+        "comment_id": "UgwEQoNUB6mNYR0epA94AaABAg",
+        "published_at": "2024-07-08T17:45:47Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Слов нет.Это просто ужас.❤❤❤",
+        "text_clean": "Слов нет.Это просто ужас.❤❤❤",
+        "author_display_name": "@ЕвгенияМягкова-л3у"
+      },
+      {
+        "comment_id": "Ugxe-bP9HjV5b6S6lNR4AaABAg",
+        "published_at": "2024-07-10T02:54:41Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Отличные новости",
+        "text_clean": "Отличные новости",
+        "author_display_name": "@ПобедаРоссии-ж8э"
+      },
+      {
+        "comment_id": "Ugx67oDEQZqqH_eLfPB4AaABAg",
+        "published_at": "2024-07-14T06:39:54Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Что же вы так палите хату. У вас там одни военные на видео. Явно это госпиталь прикрытый детьми. Еще и лицево-челюстной хирург дает интервью, что делал операцию в момент прилета.",
+        "text_clean": "Что же вы так палите хату. У вас там одни военные на видео. Явно это госпиталь прикрытый детьми. Еще и лицево-челюстной хирург дает интервью, что делал операцию в момент прилета.",
+        "author_display_name": "@sergeyrink3003"
+      }
+    ]
+  }
+}

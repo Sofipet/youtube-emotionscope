@@ -1,0 +1,401 @@
+{
+  "summary": {
+    "comment_cases_total": 30,
+    "video_cases_total": 3,
+    "agent_cases_total": 4,
+    "comment_required_fields_present_rate": 1.0,
+    "comment_detected_language_present_rate": 1.0,
+    "comment_expected_primary_options_valid_rate": 1.0,
+    "comment_expected_valence_options_valid_rate": 1.0,
+    "comment_expected_intensity_range_valid_rate": 1.0,
+    "comment_expected_nuanced_options_valid_rate": 1.0,
+    "video_dominant_match_rate": 1.0,
+    "video_negative_valence_ok_rate": 1.0,
+    "video_languages_ok_rate": 1.0,
+    "video_prevalence_ok_rate": 1.0,
+    "video_intensity_ok_rate": 1.0,
+    "video_valence_ok_rate": 1.0,
+    "video_timeline_structure_ok_rate": 1.0,
+    "video_representative_comments_valid_rate": 1.0,
+    "agent_answer_present_rate": 1.0,
+    "agent_followups_valid_rate": 1.0,
+    "agent_acceptable_tools_overlap_rate": 1.0,
+    "agent_only_known_expected_tools_rate": 1.0,
+    "agent_required_concepts_present_rate": 1.0
+  },
+  "comment_results": [
+    {
+      "case_id": "comment_eval_1ICnnVI3t_k_01",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_1ICnnVI3t_k_02",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_1ICnnVI3t_k_03",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_1ICnnVI3t_k_04",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_1ICnnVI3t_k_05",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_1ICnnVI3t_k_06",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_1ICnnVI3t_k_07",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_1ICnnVI3t_k_08",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_1ICnnVI3t_k_09",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_1ICnnVI3t_k_10",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_KraE1Qxtv8I_01",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_KraE1Qxtv8I_02",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_KraE1Qxtv8I_03",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_KraE1Qxtv8I_04",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_KraE1Qxtv8I_05",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_KraE1Qxtv8I_06",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_KraE1Qxtv8I_07",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_KraE1Qxtv8I_08",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_KraE1Qxtv8I_09",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_KraE1Qxtv8I_10",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_yiOb0yZCIcc_01",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_yiOb0yZCIcc_02",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_yiOb0yZCIcc_03",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_yiOb0yZCIcc_04",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_yiOb0yZCIcc_05",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_yiOb0yZCIcc_06",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_yiOb0yZCIcc_07",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_yiOb0yZCIcc_08",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_yiOb0yZCIcc_09",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    },
+    {
+      "case_id": "comment_eval_yiOb0yZCIcc_10",
+      "required_fields_present": true,
+      "detected_language_present": true,
+      "expected_primary_options_valid": true,
+      "expected_valence_options_valid": true,
+      "expected_intensity_range_valid": true,
+      "expected_nuanced_options_valid": true
+    }
+  ],
+  "video_results": [
+    {
+      "case_id": "video_eval_001",
+      "video_id": "1ICnnVI3t_k",
+      "dominant_generated": "anger",
+      "dominant_match": true,
+      "negative_valence_ok": true,
+      "languages_ok": true,
+      "prevalence_ok": true,
+      "intensity_ok": true,
+      "valence_ok": true,
+      "timeline_structure_ok": true,
+      "representative_comments_valid": true
+    },
+    {
+      "case_id": "video_eval_002",
+      "video_id": "KraE1Qxtv8I",
+      "dominant_generated": "anger",
+      "dominant_match": true,
+      "negative_valence_ok": true,
+      "languages_ok": true,
+      "prevalence_ok": true,
+      "intensity_ok": true,
+      "valence_ok": true,
+      "timeline_structure_ok": true,
+      "representative_comments_valid": true
+    },
+    {
+      "case_id": "video_eval_003",
+      "video_id": "yiOb0yZCIcc",
+      "dominant_generated": "sadness",
+      "dominant_match": true,
+      "negative_valence_ok": true,
+      "languages_ok": true,
+      "prevalence_ok": true,
+      "intensity_ok": true,
+      "valence_ok": true,
+      "timeline_structure_ok": true,
+      "representative_comments_valid": true
+    }
+  ],
+  "agent_results": [
+    {
+      "case_id": "agent_eval_001",
+      "video_id": "1ICnnVI3t_k",
+      "question": "Is the emotional tone closer to moral outrage or collective grief?",
+      "answer_present": true,
+      "followups_valid": true,
+      "tools_used": [
+        "get_top_primary_emotions",
+        "get_valence_distribution",
+        "get_representative_comments"
+      ],
+      "acceptable_tools_overlap": true,
+      "only_known_expected_tools": true,
+      "required_concepts_present": true
+    },
+    {
+      "case_id": "agent_eval_002",
+      "video_id": "KraE1Qxtv8I",
+      "question": "Is the emotional tone closer to moral outrage or collective grief?",
+      "answer_present": true,
+      "followups_valid": true,
+      "tools_used": [
+        "get_top_primary_emotions",
+        "get_valence_distribution",
+        "get_representative_comments"
+      ],
+      "acceptable_tools_overlap": true,
+      "only_known_expected_tools": true,
+      "required_concepts_present": true
+    },
+    {
+      "case_id": "agent_eval_003",
+      "video_id": "yiOb0yZCIcc",
+      "question": "Is the emotional tone closer to moral outrage or collective grief?",
+      "answer_present": true,
+      "followups_valid": true,
+      "tools_used": [
+        "get_top_primary_emotions",
+        "get_valence_distribution",
+        "get_representative_comments"
+      ],
+      "acceptable_tools_overlap": true,
+      "only_known_expected_tools": true,
+      "required_concepts_present": true
+    },
+    {
+      "case_id": "agent_eval_004",
+      "video_id": "KraE1Qxtv8I",
+      "question": "Why is anger dominant here, and what do the comments suggest?",
+      "answer_present": true,
+      "followups_valid": true,
+      "tools_used": [
+        "get_top_primary_emotions",
+        "get_valence_distribution",
+        "get_representative_comments"
+      ],
+      "acceptable_tools_overlap": true,
+      "only_known_expected_tools": true,
+      "required_concepts_present": true
+    }
+  ]
+}

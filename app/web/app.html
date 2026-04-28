@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YouTube EmotionScope</title>
+  <link rel="stylesheet" href="/styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Comment analytics</p>
+        <h1>YouTube EmotionScope</h1>
+        <p class="subtitle">LLM-powered emotional discourse analysis for YouTube videos</p>
+      </div>
+      <div class="mode-badge" id="modeBadge">Demo + Live</div>
+    </header>
+
+    <main class="layout">
+      <section class="input-panel card">
+        <h2>Analyze a video</h2>
+
+        <label class="field-label" for="videoUrl">YouTube URL</label>
+        <input
+          id="videoUrl"
+          class="text-input"
+          type="text"
+          placeholder="Paste a YouTube video URL"
+        />
+
+        <div class="stacked-controls">
+          <button id="runDemoBtn" class="btn btn-secondary full-width-btn">Load Demo Example</button>
+
+          <input
+            id="accessToken"
+            class="text-input"
+            type="password"
+            placeholder="Enter access token"
+          />
+
+          <button id="unlockBtn" class="btn btn-primary full-width-btn">Unlock Live Mode</button>
+
+          <button id="runLiveBtn" class="btn btn-primary full-width-btn" disabled>Run Live Analysis</button>
+        </div>
+
+        <p id="unlockStatus" class="status-text"></p>
+
+        <hr class="section-divider" />
+
+        <h2>Ask about this video</h2>
+
+        <p class="field-label field-label-tight">Demo question</p>
+        <div class="demo-questions-grid">
+          <button
+            class="btn btn-secondary demo-question"
+            data-question="Is the emotional tone closer to moral outrage or collective grief?"
+            type="button"
+          >
+            Is the emotional tone closer to moral outrage or collective grief?
+          </button>
+        </div>
+
+        <label class="field-label ask-live-label" for="videoQuestion">Ask </label>
+        <input
+          id="videoQuestion"
+          class="text-input"
+          type="text"
+          placeholder="Ask your own question about the current video"
+        />
+
+        <div class="button-row">
+          <button id="askVideoBtn" class="btn btn-primary ask-live-btn" disabled>Ask Live</button>
+        </div>
+
+        <div id="loadingState" class="loading-state hidden">Running analysis...</div>
+        <div id="errorState" class="error-state hidden"></div>
+
+        <section id="agentResultsCard" class="agent-results-card hidden">
+          <p class="section-kicker">Insight agent</p>
+          <div id="agentChat" class="agent-chat"></div>
+          <div id="agentFollowups" class="followup-buttons"></div>
+        </section>
+      </section>
+
+      <section class="results-panel">
+        <div id="emptyState" class="card empty-state">
+          <h2>No analysis loaded yet</h2>
+          <p>Load the demo example or run live analysis for a YouTube video.</p>
+        </div>
+
+        <div id="resultsRoot" class="hidden">
+          <section class="card hero-card">
+            <div class="hero-top">
+              <div>
+                <p class="section-kicker">Video overview</p>
+                <h2 id="videoTitle">Video title</h2>
+                <div class="hero-meta">
+                  <span id="channelName" class="meta-chip"></span>
+                  <span id="publishedAt" class="meta-chip soft-chip"></span>
+                  <span id="languageChips" class="hero-meta-inline"></span>
+                </div>
+              </div>
+            </div>
+
+            <div class="stats-grid">
+              <div class="stat-card">
+                <div class="stat-label">Comments fetched</div>
+                <div id="commentsFetched" class="stat-value"></div>
+              </div>
+              <div class="stat-card">
+                <div class="stat-label">Comments analyzed</div>
+                <div id="commentsAnalyzed" class="stat-value"></div>
+              </div>
+            </div>
+          </section>
+
+          <section class="card">
+            <p class="section-kicker">Description</p>
+            <p id="descriptionText" class="description-text"></p>
+          </section>
+
+          <section id="warningsCard" class="card hidden">
+            <p class="section-kicker">Warnings</p>
+            <div id="warningsList" class="warning-list"></div>
+          </section>
+
+          <section class="chart-grid">
+            <section class="card">
+              <p class="section-kicker">Primary emotions</p>
+              <div class="chart-wrap">
+                <canvas id="primaryEmotionsChart"></canvas>
+              </div>
+            </section>
+
+            <section class="card">
+              <p class="section-kicker">Valence</p>
+              <div class="chart-wrap">
+                <canvas id="valenceChart"></canvas>
+              </div>
+            </section>
+
+            <section class="card">
+              <p class="section-kicker">Nuanced emotions</p>
+              <div class="chart-wrap">
+                <canvas id="nuancedEmotionsChart"></canvas>
+              </div>
+            </section>
+
+            <section class="card">
+              <p class="section-kicker">Timeline</p>
+              <div class="chart-wrap chart-wrap-large">
+                <canvas id="timelineChart"></canvas>
+              </div>
+            </section>
+          </section>
+
+          <section class="card">
+            <p class="section-kicker">Representative comments</p>
+            <div id="representativeCommentsList" class="comment-list"></div>
+          </section>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

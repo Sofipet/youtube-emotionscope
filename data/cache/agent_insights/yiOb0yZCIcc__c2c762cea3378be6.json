@@ -1,0 +1,20 @@
+{
+  "saved_at": "2026-04-28T09:52:31.610505+00:00",
+  "type": "agent_insight",
+  "cache_key": "yiOb0yZCIcc__c2c762cea3378be6",
+  "video_id": "yiOb0yZCIcc",
+  "question": "Is the emotional tone closer to moral outrage or collective grief?",
+  "payload": {
+    "answer": "The emotional tone is closer to collective grief, as evidenced by the high prevalence of sadness (35%) and negative valence (83.33%). While there is also significant anger (33.33%), the dominant sentiment reflects deep sorrow and helplessness in the comments, indicating a focus on loss and suffering rather than solely moral outrage.",
+    "suggested_followups": [
+      "Analyze the impact of viewer comments on emotional tone.",
+      "Explore the intensity of sadness in relation to anger.",
+      "Investigate how collective grief influences viewer engagement."
+    ],
+    "tools_used": [
+      "get_top_primary_emotions",
+      "get_valence_distribution",
+      "get_representative_comments"
+    ]
+  }
+}

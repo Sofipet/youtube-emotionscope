@@ -1,0 +1,264 @@
+{
+  "saved_at": "2026-04-28T09:59:31.195630+00:00",
+  "type": "analysis",
+  "cache_key": "1ICnnVI3t_k__4f3bc1893741b854",
+  "payload": {
+    "video": {
+      "video_id": "1ICnnVI3t_k",
+      "video_url": "https://www.youtube.com/watch?v=1ICnnVI3t_k",
+      "title": "Ukraine: 'Every family' in village of Hroza affected by missile attack - BBC News",
+      "channel_title": "BBC News",
+      "published_at": "2023-10-06T07:00:01Z",
+      "comments_fetched": 215,
+      "comments_analyzed": 60,
+      "languages": [
+        {
+          "language_code": "en",
+          "language_label": "English",
+          "share": 0.8705
+        },
+        {
+          "language_code": "other",
+          "language_label": "Other",
+          "share": 0.1295
+        }
+      ]
+    },
+    "top_primary_emotions": [
+      {
+        "emotion": "anger",
+        "prevalence": 0.25,
+        "avg_intensity": 0.67
+      },
+      {
+        "emotion": "sadness",
+        "prevalence": 0.1667,
+        "avg_intensity": 0.66
+      },
+      {
+        "emotion": "trust",
+        "prevalence": 0.1667,
+        "avg_intensity": 0.5
+      },
+      {
+        "emotion": "joy",
+        "prevalence": 0.15,
+        "avg_intensity": 0.7056
+      },
+      {
+        "emotion": "anticipation",
+        "prevalence": 0.15,
+        "avg_intensity": 0.4778
+      }
+    ],
+    "top_nuanced_emotions": [
+      {
+        "emotion": "sarcasm",
+        "prevalence": 0.0667,
+        "avg_intensity": 0.6
+      },
+      {
+        "emotion": "frustration",
+        "prevalence": 0.05,
+        "avg_intensity": 0.7
+      },
+      {
+        "emotion": "solidarity",
+        "prevalence": 0.05,
+        "avg_intensity": 0.7
+      },
+      {
+        "emotion": "skepticism",
+        "prevalence": 0.05,
+        "avg_intensity": 0.5167
+      },
+      {
+        "emotion": "helplessness",
+        "prevalence": 0.0333,
+        "avg_intensity": 0.8
+      }
+    ],
+    "valence": {
+      "positive": 0.1833,
+      "negative": 0.5333,
+      "mixed": 0.05,
+      "neutral": 0.2333
+    },
+    "timeline": [
+      {
+        "date": "2023-10-06",
+        "comment_count": 56,
+        "primary_emotions": [
+          {
+            "emotion": "anger",
+            "prevalence": 0.2679,
+            "avg_intensity": 0.67
+          },
+          {
+            "emotion": "sadness",
+            "prevalence": 0.1786,
+            "avg_intensity": 0.66
+          },
+          {
+            "emotion": "joy",
+            "prevalence": 0.1607,
+            "avg_intensity": 0.7056
+          },
+          {
+            "emotion": "trust",
+            "prevalence": 0.1429,
+            "avg_intensity": 0.4875
+          },
+          {
+            "emotion": "anticipation",
+            "prevalence": 0.1429,
+            "avg_intensity": 0.475
+          },
+          {
+            "emotion": "disgust",
+            "prevalence": 0.0714,
+            "avg_intensity": 0.5625
+          },
+          {
+            "emotion": "fear",
+            "prevalence": 0.0357,
+            "avg_intensity": 0.5
+          }
+        ],
+        "valence": {
+          "positive": 0.1786,
+          "negative": 0.5536,
+          "mixed": 0.0536,
+          "neutral": 0.2143
+        }
+      },
+      {
+        "date": "2023-10-07",
+        "comment_count": 2,
+        "primary_emotions": [
+          {
+            "emotion": "trust",
+            "prevalence": 1.0,
+            "avg_intensity": 0.55
+          }
+        ],
+        "valence": {
+          "positive": 0.5,
+          "negative": 0.0,
+          "mixed": 0.0,
+          "neutral": 0.5
+        }
+      },
+      {
+        "date": "2023-10-09",
+        "comment_count": 1,
+        "primary_emotions": [
+          {
+            "emotion": "disgust",
+            "prevalence": 1.0,
+            "avg_intensity": 0.75
+          }
+        ],
+        "valence": {
+          "positive": 0.0,
+          "negative": 1.0,
+          "mixed": 0.0,
+          "neutral": 0.0
+        }
+      },
+      {
+        "date": "2023-10-10",
+        "comment_count": 1,
+        "primary_emotions": [
+          {
+            "emotion": "anticipation",
+            "prevalence": 1.0,
+            "avg_intensity": 0.5
+          }
+        ],
+        "valence": {
+          "positive": 0.0,
+          "negative": 0.0,
+          "mixed": 0.0,
+          "neutral": 1.0
+        }
+      }
+    ],
+    "warnings": [],
+    "description": "The comment section reflects a significant emotional pattern of anger (25%) and sadness (16.67%), with many users expressing outrage and grief over the impact of the missile attack, as highlighted by comments condemning violence against innocent civilians. Additionally, a sense of solidarity emerges, particularly in calls for unity and support for Ukraine, though some comments exhibit skepticism and frustration regarding leadership decisions. Overall, the emotional intensity suggests a deep engagement with the tragedy, underscoring the complexities of conflict and shared trauma.",
+    "representative_comments": [
+      {
+        "comment_id": "Ugz61q0Z3ApSnc-RlsV4AaABAg",
+        "primary_emotion": "sadness",
+        "nuanced_emotion": "helplessness",
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 25,
+        "text": "So sad😢😢😢😢😢innocent ones who can live much longer happily"
+      },
+      {
+        "comment_id": "Ugyli8u37qMrDhPXlHN4AaABAg",
+        "primary_emotion": "sadness",
+        "nuanced_emotion": "solidarity",
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 21,
+        "text": "💔Murdering defenceless village people who are at a Christian funeral. This reveals the true face of the barbaric RF antichrist which heaps evil upon evil upon evil. Ukraine will not yield and neither will their European brothers and sisters. May Almighty God grant swift victory to Ukraine, and a just and lasting peace. Нехай Всемогутній Бог дарує Україні перемогу, а насамперед справедливий і міцний мир. 🕊️🇺🇦"
+      },
+      {
+        "comment_id": "UgyaLOdPQsMkGtqM55N4AaABAg",
+        "primary_emotion": "sadness",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 11,
+        "text": "Zelensky has proven how a fool can destroy his own home....😢😢😢"
+      },
+      {
+        "comment_id": "UgwIxueUtfsVpAOP91h4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 5,
+        "text": "🤬Total economic ban of all Russia worldwide and isolate Russia until they stop killing innocent Ukrainian. Total economic ban of any country that will support and help Russia.\n#UkraineStrong ❤🇺🇦\n#PrayForUkraine 🙏🏼🇺🇦"
+      },
+      {
+        "comment_id": "UgzZ9pqiKczbd4n7Z6V4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": "moral outrage",
+        "emotion_intensity": 0.85,
+        "valence": "negative",
+        "like_count": 7,
+        "text": "Putins tyranny… lowest of the low , condolences to all Ukrainian families ."
+      },
+      {
+        "comment_id": "Ugzt1RbdfYgIjCn4ZHR4AaABAg",
+        "primary_emotion": "joy",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.85,
+        "valence": "positive",
+        "like_count": 1,
+        "text": "Ru continues to make me proud 😘😊❤️"
+      },
+      {
+        "comment_id": "UgxP6tnxf8UsPdNAiP54AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.8,
+        "valence": "negative",
+        "like_count": 7,
+        "text": "Do whatever it takes to thwart Putin's fascist imperialist and genocidal ambitions."
+      },
+      {
+        "comment_id": "UgylDx-Fis5MM1A8JfN4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.8,
+        "valence": "negative",
+        "like_count": 4,
+        "text": "One Russian civilian will cost you 10 yours!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "saved_at": "2026-04-26T23:00:46.261884+00:00",
+  "artifact_type": "final",
+  "name": "KraE1Qxtv8I",
+  "payload": {
+    "video": {
+      "video_id": "KraE1Qxtv8I",
+      "video_url": "https://www.youtube.com/watch?v=KraE1Qxtv8I",
+      "title": "Children's hospital hit as Russian strikes kill 24 in Ukraine  | BBC News",
+      "channel_title": "BBC News",
+      "published_at": "2024-07-08T12:40:01Z",
+      "comments_fetched": 499,
+      "comments_analyzed": 60
+    },
+    "top_primary_emotions": [
+      {
+        "emotion": "anger",
+        "prevalence": 0.3,
+        "avg_intensity": 0.7972
+      },
+      {
+        "emotion": "sadness",
+        "prevalence": 0.2,
+        "avg_intensity": 0.8042
+      },
+      {
+        "emotion": "disgust",
+        "prevalence": 0.15,
+        "avg_intensity": 0.6444
+      },
+      {
+        "emotion": "trust",
+        "prevalence": 0.15,
+        "avg_intensity": 0.4722
+      },
+      {
+        "emotion": "anticipation",
+        "prevalence": 0.1167,
+        "avg_intensity": 0.4714
+      }
+    ],
+    "top_nuanced_emotions": [
+      {
+        "emotion": "frustration",
+        "prevalence": 0.1,
+        "avg_intensity": 0.8167
+      },
+      {
+        "emotion": "skepticism",
+        "prevalence": 0.05,
+        "avg_intensity": 0.7333
+      },
+      {
+        "emotion": "helplessness",
+        "prevalence": 0.0333,
+        "avg_intensity": 0.8
+      },
+      {
+        "emotion": "solidarity",
+        "prevalence": 0.0333,
+        "avg_intensity": 0.775
+      },
+      {
+        "emotion": "sarcasm",
+        "prevalence": 0.0333,
+        "avg_intensity": 0.625
+      }
+    ],
+    "valence": {
+      "positive": 0.0667,
+      "negative": 0.6667,
+      "mixed": 0.0,
+      "neutral": 0.2667
+    },
+    "timeline": [
+      {
+        "date": "2024-07-08",
+        "comment_count": 43,
+        "primary_emotions": [
+          {
+            "emotion": "anger",
+            "prevalence": 0.3256,
+            "avg_intensity": 0.8179
+          },
+          {
+            "emotion": "sadness",
+            "prevalence": 0.186,
+            "avg_intensity": 0.7875
+          },
+          {
+            "emotion": "disgust",
+            "prevalence": 0.1395,
+            "avg_intensity": 0.6833
+          },
+          {
+            "emotion": "trust",
+            "prevalence": 0.1395,
+            "avg_intensity": 0.5
+          },
+          {
+            "emotion": "anticipation",
+            "prevalence": 0.1163,
+            "avg_intensity": 0.56
+          },
+          {
+            "emotion": "surprise",
+            "prevalence": 0.0698,
+            "avg_intensity": 0.45
+          },
+          {
+            "emotion": "fear",
+            "prevalence": 0.0233,
+            "avg_intensity": 0.5
+          }
+        ],
+        "valence": {
+          "positive": 0.0465,
+          "negative": 0.6744,
+          "mixed": 0.0,
+          "neutral": 0.2791
+        }
+      },
+      {
+        "date": "2024-07-09",
+        "comment_count": 16,
+        "primary_emotions": [
+          {
+            "emotion": "sadness",
+            "prevalence": 0.25,
+            "avg_intensity": 0.8375
+          },
+          {
+            "emotion": "anger",
+            "prevalence": 0.25,
+            "avg_intensity": 0.725
+          },
+          {
+            "emotion": "trust",
+            "prevalence": 0.1875,
+            "avg_intensity": 0.4167
+          },
+          {
+            "emotion": "disgust",
+            "prevalence": 0.125,
+            "avg_intensity": 0.6
+          },
+          {
+            "emotion": "anticipation",
+            "prevalence": 0.125,
+            "avg_intensity": 0.25
+          },
+          {
+            "emotion": "surprise",
+            "prevalence": 0.0625,
+            "avg_intensity": 0.4
+          }
+        ],
+        "valence": {
+          "positive": 0.125,
+          "negative": 0.625,
+          "mixed": 0.0,
+          "neutral": 0.25
+        }
+      },
+      {
+        "date": "2024-07-11",
+        "comment_count": 1,
+        "primary_emotions": [
+          {
+            "emotion": "disgust",
+            "prevalence": 1.0,
+            "avg_intensity": 0.5
+          }
+        ],
+        "valence": {
+          "positive": 0.0,
+          "negative": 1.0,
+          "mixed": 0.0,
+          "neutral": 0.0
+        }
+      }
+    ],
+    "warnings": [],
+    "description": "The comment section reflects a predominant emotional pattern of anger, with notable undercurrents of sadness, as viewers express outrage and grief over the attack on a children's hospital in Ukraine. Comments illustrate intense feelings of helplessness and frustration, as many grapple with the senselessness of such violence towards vulnerable populations, though the overall emotional landscape is characterized by strong negativity.",
+    "representative_comments": [
+      {
+        "comment_id": "UgyVnv25tkVH72_Rfb54AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.95,
+        "valence": "negative",
+        "like_count": 17,
+        "text": "#BULLSHIT"
+      },
+      {
+        "comment_id": "UgyLBWUvjYUOkoD2TaV4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.95,
+        "valence": "negative",
+        "like_count": 5,
+        "text": "War criminality at it best this can't be justified at all"
+      },
+      {
+        "comment_id": "Ugz2jsDUIWxUBW2vJZV4AaABAg",
+        "primary_emotion": "sadness",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 98,
+        "text": "I can only see little children with cancer and fighting for their lives , sitting in the rubble. 😢😢😢"
+      },
+      {
+        "comment_id": "UgxedfVsJlkprwjovUl4AaABAg",
+        "primary_emotion": "sadness",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 13,
+        "text": "It's so sad to see children dying in both Palestine 🇵🇸 and Ukraine 🇺🇦. We are all equal in the eyes of God."
+      },
+      {
+        "comment_id": "UgxHiQggpRcJmbMpw3B4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": "frustration",
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 12,
+        "text": "Despicable act. I honestly do not understand, why strike any hospital, but a childrens cancer hospital?, I mean, come on 🤬"
+      },
+      {
+        "comment_id": "Ugxd7p8or-GbeW5B-iJ4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": null,
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 7,
+        "text": "How can anyone justify an attack on a children's hospital?"
+      },
+      {
+        "comment_id": "UgyzYVLwAoOrupktrHd4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": "frustration",
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 5,
+        "text": "FT: “Kyiv mayor Vitali Klitschko said two adults had been confirmed killed by the direct hit on the Okhmatdyt hospital”.\nDirect hit by a missile and only two killed? Seriously? Was that an X-men hospital? Or maybe it wasn’t a direct hit. Or maybe it wasn’t a missile, but a huge Christmas cracker. Or maybe it wasn’t a Russian missile, but something else, say a failed air defense debris. We’re never going to know with this kind of “impartial” journalism with clickbait’y titles. Can’t believe I still haven’t cancelled my TV license"
+      },
+      {
+        "comment_id": "UgwlNlmcYjvGu_7N_FB4AaABAg",
+        "primary_emotion": "anger",
+        "nuanced_emotion": "frustration",
+        "emotion_intensity": 0.9,
+        "valence": "negative",
+        "like_count": 1,
+        "text": "Pootin is kind of boxer who wants to fight the opponent's children or grandparents. He is not man but a chihuahua."
+      }
+    ]
+  }
+}

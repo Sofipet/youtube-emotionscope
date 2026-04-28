@@ -1,0 +1,400 @@
+{
+  "video": {
+    "video_id": "KraE1Qxtv8I",
+    "video_url": "https://www.youtube.com/watch?v=KraE1Qxtv8I",
+    "title": "Children's hospital hit as Russian strikes kill 24 in Ukraine  | BBC News",
+    "channel_title": "BBC News",
+    "published_at": "2024-07-08T12:40:01Z",
+    "comments_fetched": 499,
+    "comments_analyzed": 60
+  },
+  "top_primary_emotions": [
+    {
+      "emotion": "anger",
+      "prevalence": 0.3333,
+      "avg_intensity": 0.7925
+    },
+    {
+      "emotion": "sadness",
+      "prevalence": 0.2167,
+      "avg_intensity": 0.7462
+    },
+    {
+      "emotion": "trust",
+      "prevalence": 0.15,
+      "avg_intensity": 0.4778
+    },
+    {
+      "emotion": "disgust",
+      "prevalence": 0.1167,
+      "avg_intensity": 0.6857
+    },
+    {
+      "emotion": "anticipation",
+      "prevalence": 0.1167,
+      "avg_intensity": 0.3929
+    }
+  ],
+  "top_nuanced_emotions": [
+    {
+      "emotion": "frustration",
+      "prevalence": 0.0667,
+      "avg_intensity": 0.75
+    },
+    {
+      "emotion": "skepticism",
+      "prevalence": 0.05,
+      "avg_intensity": 0.6667
+    }
+  ],
+  "valence": {
+    "positive": 0.0667,
+    "negative": 0.7,
+    "mixed": 0.0,
+    "neutral": 0.2333
+  },
+  "timeline": [
+    {
+      "bucket_label": "Bucket 1",
+      "comment_count": 8,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.25,
+          "avg_intensity": 0.875
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.25,
+          "avg_intensity": 0.8
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.25,
+          "avg_intensity": 0.7
+        },
+        {
+          "emotion": "anticipation",
+          "prevalence": 0.125,
+          "avg_intensity": 0.5
+        },
+        {
+          "emotion": "trust",
+          "prevalence": 0.125,
+          "avg_intensity": 0.4
+        }
+      ],
+      "valence": {
+        "positive": 0.0,
+        "negative": 0.75,
+        "mixed": 0.0,
+        "neutral": 0.25
+      }
+    },
+    {
+      "bucket_label": "Bucket 2",
+      "comment_count": 8,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.25,
+          "avg_intensity": 0.825
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.25,
+          "avg_intensity": 0.75
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.125,
+          "avg_intensity": 0.6
+        },
+        {
+          "emotion": "anticipation",
+          "prevalence": 0.125,
+          "avg_intensity": 0.5
+        },
+        {
+          "emotion": "fear",
+          "prevalence": 0.125,
+          "avg_intensity": 0.4
+        }
+      ],
+      "valence": {
+        "positive": 0.0,
+        "negative": 0.75,
+        "mixed": 0.0,
+        "neutral": 0.25
+      }
+    },
+    {
+      "bucket_label": "Bucket 3",
+      "comment_count": 8,
+      "top_emotions": [
+        {
+          "emotion": "trust",
+          "prevalence": 0.5,
+          "avg_intensity": 0.45
+        },
+        {
+          "emotion": "anger",
+          "prevalence": 0.125,
+          "avg_intensity": 0.9
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.125,
+          "avg_intensity": 0.6
+        },
+        {
+          "emotion": "anticipation",
+          "prevalence": 0.125,
+          "avg_intensity": 0.5
+        },
+        {
+          "emotion": "surprise",
+          "prevalence": 0.125,
+          "avg_intensity": 0.3
+        }
+      ],
+      "valence": {
+        "positive": 0.125,
+        "negative": 0.25,
+        "mixed": 0.0,
+        "neutral": 0.625
+      }
+    },
+    {
+      "bucket_label": "Bucket 4",
+      "comment_count": 8,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.625,
+          "avg_intensity": 0.74
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.25,
+          "avg_intensity": 0.85
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.125,
+          "avg_intensity": 0.6
+        }
+      ],
+      "valence": {
+        "positive": 0.0,
+        "negative": 1.0,
+        "mixed": 0.0,
+        "neutral": 0.0
+      }
+    },
+    {
+      "bucket_label": "Bucket 5",
+      "comment_count": 8,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.25,
+          "avg_intensity": 0.825
+        },
+        {
+          "emotion": "anticipation",
+          "prevalence": 0.25,
+          "avg_intensity": 0.5
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.125,
+          "avg_intensity": 0.8
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.125,
+          "avg_intensity": 0.7
+        },
+        {
+          "emotion": "trust",
+          "prevalence": 0.125,
+          "avg_intensity": 0.6
+        }
+      ],
+      "valence": {
+        "positive": 0.125,
+        "negative": 0.5,
+        "mixed": 0.0,
+        "neutral": 0.375
+      }
+    },
+    {
+      "bucket_label": "Bucket 6",
+      "comment_count": 8,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.5,
+          "avg_intensity": 0.7625
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.25,
+          "avg_intensity": 0.725
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.125,
+          "avg_intensity": 0.6
+        },
+        {
+          "emotion": "anticipation",
+          "prevalence": 0.125,
+          "avg_intensity": 0.15
+        }
+      ],
+      "valence": {
+        "positive": 0.0,
+        "negative": 0.875,
+        "mixed": 0.0,
+        "neutral": 0.125
+      }
+    },
+    {
+      "bucket_label": "Bucket 7",
+      "comment_count": 8,
+      "top_emotions": [
+        {
+          "emotion": "sadness",
+          "prevalence": 0.5,
+          "avg_intensity": 0.7375
+        },
+        {
+          "emotion": "anger",
+          "prevalence": 0.25,
+          "avg_intensity": 0.8
+        },
+        {
+          "emotion": "trust",
+          "prevalence": 0.125,
+          "avg_intensity": 0.55
+        },
+        {
+          "emotion": "fear",
+          "prevalence": 0.125,
+          "avg_intensity": 0.5
+        }
+      ],
+      "valence": {
+        "positive": 0.125,
+        "negative": 0.875,
+        "mixed": 0.0,
+        "neutral": 0.0
+      }
+    },
+    {
+      "bucket_label": "Bucket 8",
+      "comment_count": 4,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.5,
+          "avg_intensity": 0.775
+        },
+        {
+          "emotion": "trust",
+          "prevalence": 0.25,
+          "avg_intensity": 0.65
+        },
+        {
+          "emotion": "anticipation",
+          "prevalence": 0.25,
+          "avg_intensity": 0.1
+        }
+      ],
+      "valence": {
+        "positive": 0.25,
+        "negative": 0.5,
+        "mixed": 0.0,
+        "neutral": 0.25
+      }
+    }
+  ],
+  "warnings": [],
+  "description": "The comment section for the video reflects a dominant emotional pattern of anger, with users expressing outrage over the attacks on a children's hospital, complemented by a significant secondary theme of sadness regarding the innocent victims involved. Comments highlight a deep moral outrage and frustration, particularly towards the targeting of vulnerable children, indicating a profound emotional response to the tragedy.",
+  "representative_comments": [
+    {
+      "comment_id": "UgwFswQiTtdh8Ab-CH14AaABAg",
+      "primary_emotion": "anger",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.95,
+      "valence": "negative",
+      "like_count": 10,
+      "text": "How disgraceful, just before the NATO summit too !!???"
+    },
+    {
+      "comment_id": "Ugz2jsDUIWxUBW2vJZV4AaABAg",
+      "primary_emotion": "sadness",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 98,
+      "text": "I can only see little children with cancer and fighting for their lives , sitting in the rubble. 😢😢😢"
+    },
+    {
+      "comment_id": "UgyVnv25tkVH72_Rfb54AaABAg",
+      "primary_emotion": "anger",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 17,
+      "text": "#BULLSHIT"
+    },
+    {
+      "comment_id": "UgxHiQggpRcJmbMpw3B4AaABAg",
+      "primary_emotion": "anger",
+      "nuanced_emotion": "frustration",
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 12,
+      "text": "Despicable act. I honestly do not understand, why strike any hospital, but a childrens cancer hospital?, I mean, come on 🤬"
+    },
+    {
+      "comment_id": "Ugxd7p8or-GbeW5B-iJ4AaABAg",
+      "primary_emotion": "anger",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 7,
+      "text": "How can anyone justify an attack on a children's hospital?"
+    },
+    {
+      "comment_id": "Ugzi-U9TzN6tEKekz6R4AaABAg",
+      "primary_emotion": "anger",
+      "nuanced_emotion": "moral outrage",
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 6,
+      "text": "Where is the outrage for the geno side in Gaza. No functional hospital left, 20,000+ children un alive"
+    },
+    {
+      "comment_id": "UgyLBWUvjYUOkoD2TaV4AaABAg",
+      "primary_emotion": "anger",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 5,
+      "text": "War criminality at it best this can't be justified at all"
+    },
+    {
+      "comment_id": "UgwSUNvoXrjqGJCGnad4AaABAg",
+      "primary_emotion": "anger",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 5,
+      "text": "Propaganda....."
+    }
+  ]
+}

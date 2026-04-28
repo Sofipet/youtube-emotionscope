@@ -1,0 +1,558 @@
+{
+  "saved_at": "2026-04-26T22:03:29.797908+00:00",
+  "artifact_type": "sampled",
+  "name": "1ICnnVI3t_k",
+  "payload": {
+    "warnings": [],
+    "stats": {
+      "raw_comments": 215,
+      "after_cleaning": 213,
+      "sampled_comments": 60,
+      "removed_empty": 0,
+      "removed_low_value": 1,
+      "removed_duplicates": 1
+    },
+    "comments": [
+      {
+        "comment_id": "UgyKDLJD9aKFmFg7EGx4AaABAg",
+        "published_at": "2023-10-06T07:05:19Z",
+        "like_count": 7,
+        "reply_count": 2,
+        "text_original": "Ukraine missile.",
+        "text_clean": "Ukraine missile.",
+        "author_display_name": "@JK-ff6zc"
+      },
+      {
+        "comment_id": "Ugwwh1wBFLRYiAbBzcF4AaABAg",
+        "published_at": "2023-10-06T07:10:23Z",
+        "like_count": 7,
+        "reply_count": 11,
+        "text_original": "Ukraine jails journalists",
+        "text_clean": "Ukraine jails journalists",
+        "author_display_name": "@nicks-flix"
+      },
+      {
+        "comment_id": "UgylBAXtNxWfjjJp7gF4AaABAg",
+        "published_at": "2023-10-06T07:13:41Z",
+        "like_count": 1,
+        "reply_count": 2,
+        "text_original": "Looks like nato is afraid of Russia because Russia is not  alone china & india supporting their friend in hard times",
+        "text_clean": "Looks like nato is afraid of Russia because Russia is not alone china & india supporting their friend in hard times",
+        "author_display_name": "@jassa49"
+      },
+      {
+        "comment_id": "Ugzo4mKttF8hK6E6yp14AaABAg",
+        "published_at": "2023-10-06T07:14:23Z",
+        "like_count": 20,
+        "reply_count": 15,
+        "text_original": "Whoever did it is extremely evil! I hope there's justice for it.",
+        "text_clean": "Whoever did it is extremely evil! I hope there's justice for it.",
+        "author_display_name": "@sbeast64"
+      },
+      {
+        "comment_id": "UgylDx-Fis5MM1A8JfN4AaABAg",
+        "published_at": "2023-10-06T07:15:58Z",
+        "like_count": 4,
+        "reply_count": 2,
+        "text_original": "One Russian civilian will cost you 10 yours!",
+        "text_clean": "One Russian civilian will cost you 10 yours!",
+        "author_display_name": "@dinara_ti"
+      },
+      {
+        "comment_id": "Ugw58bcNED_2HJmiZV54AaABAg",
+        "published_at": "2023-10-06T07:16:12Z",
+        "like_count": 2,
+        "reply_count": 1,
+        "text_original": "How are the peace talks going?",
+        "text_clean": "How are the peace talks going?",
+        "author_display_name": "@3101010"
+      },
+      {
+        "comment_id": "Ugxwfbpsm0MvMjctR_14AaABAg",
+        "published_at": "2023-10-06T07:17:35Z",
+        "like_count": 27,
+        "reply_count": 9,
+        "text_original": "We send our deep condolences to the families and friends of the mercs and army officers injured and killed.😂😂",
+        "text_clean": "We send our deep condolences to the families and friends of the mercs and army officers injured and killed.😂😂",
+        "author_display_name": "@petworld9056"
+      },
+      {
+        "comment_id": "Ugwx06bYpz5QZkUFAGx4AaABAg",
+        "published_at": "2023-10-06T07:20:02Z",
+        "like_count": 3,
+        "reply_count": 0,
+        "text_original": "Russia handing ukraine receipts for the attack on their headquarters no prisoners 😂 viva russia",
+        "text_clean": "Russia handing ukraine receipts for the attack on their headquarters no prisoners 😂 viva russia",
+        "author_display_name": "@robijorum4113"
+      },
+      {
+        "comment_id": "UgxSK5LPhMLY1PB0VYN4AaABAg",
+        "published_at": "2023-10-06T07:21:52Z",
+        "like_count": 14,
+        "reply_count": 2,
+        "text_original": "Good job Russia 🇷🇺🇷🇺",
+        "text_clean": "Good job Russia 🇷🇺🇷🇺",
+        "author_display_name": "@IvaTaiwan-u8z"
+      },
+      {
+        "comment_id": "Ugx6n2g2CYEsb1oE9D54AaABAg",
+        "published_at": "2023-10-06T07:23:29Z",
+        "like_count": 14,
+        "reply_count": 10,
+        "text_original": "RIP...\nRussia conquers, then uses people from that conquered land to CONQUER MORE LAND",
+        "text_clean": "RIP... Russia conquers, then uses people from that conquered land to CONQUER MORE LAND",
+        "author_display_name": "@SeemoreDunkan"
+      },
+      {
+        "comment_id": "UgymVI1y-Ima30uEjeJ4AaABAg",
+        "published_at": "2023-10-06T07:32:03Z",
+        "like_count": 7,
+        "reply_count": 3,
+        "text_original": "My god the amount of AI replies…. This is what bbc has had to resort to?",
+        "text_clean": "My god the amount of AI replies…. This is what bbc has had to resort to?",
+        "author_display_name": "@sobek4206"
+      },
+      {
+        "comment_id": "Ugw02f9YUcGun8MX_o94AaABAg",
+        "published_at": "2023-10-06T07:33:15Z",
+        "like_count": 7,
+        "reply_count": 4,
+        "text_original": "I heard that most ppl of this village was evacuated days before. Then why so many civilians killed?? Why so many civilians attended a soldiers funeral?  In the BBC video we see more military than civilians too. They show only 1 civilian mourning there? Ukraine said the same thin when Russia attacked a NATO gathering in a civilian Cafe' last month. So who is telling the truth?",
+        "text_clean": "I heard that most ppl of this village was evacuated days before. Then why so many civilians killed?? Why so many civilians attended a soldiers funeral? In the BBC video we see more military than civilians too. They show only 1 civilian mourning there? Ukraine said the same thin when Russia attacked a NATO gathering in a civilian Cafe' last month. So who is telling the truth?",
+        "author_display_name": "@ubaym.1213"
+      },
+      {
+        "comment_id": "UgwIxueUtfsVpAOP91h4AaABAg",
+        "published_at": "2023-10-06T07:33:42Z",
+        "like_count": 5,
+        "reply_count": 3,
+        "text_original": "🤬Total economic ban of all Russia worldwide and isolate Russia until they stop killing innocent Ukrainian. Total economic ban of any country that will support and help Russia.\n#UkraineStrong ❤🇺🇦\n#PrayForUkraine 🙏🏼🇺🇦",
+        "text_clean": "🤬Total economic ban of all Russia worldwide and isolate Russia until they stop killing innocent Ukrainian. Total economic ban of any country that will support and help Russia. #UkraineStrong ❤🇺🇦 #PrayForUkraine 🙏🏼🇺🇦",
+        "author_display_name": "@angelrafaelli4988"
+      },
+      {
+        "comment_id": "UgyUq-n11oSghn8JBK54AaABAg",
+        "published_at": "2023-10-06T07:34:38Z",
+        "like_count": 23,
+        "reply_count": 18,
+        "text_original": "Targets of Russia : School, hospital, apartments, supermarkets, playgrounds and civilian infrastructures.\r\n\r\nTargets of Ukraine : Command post of Russia, ammo and arms depots, military infrastructure and equipments which cost more than 300 Million dollars",
+        "text_clean": "Targets of Russia : School, hospital, apartments, supermarkets, playgrounds and civilian infrastructures. Targets of Ukraine : Command post of Russia, ammo and arms depots, military infrastructure and equipments which cost more than 300 Million dollars",
+        "author_display_name": "@qili3899"
+      },
+      {
+        "comment_id": "UgxjRzlvtAMOBWj9TNV4AaABAg",
+        "published_at": "2023-10-06T07:40:35Z",
+        "like_count": 2,
+        "reply_count": 0,
+        "text_original": "A ploy / false flag to get more aid?",
+        "text_clean": "A ploy / false flag to get more aid?",
+        "author_display_name": "@dman-v1v"
+      },
+      {
+        "comment_id": "UgwNyvofIYOCEypDlB94AaABAg",
+        "published_at": "2023-10-06T07:41:17Z",
+        "like_count": 2,
+        "reply_count": 2,
+        "text_original": "Any British presenters on the bbc these days? No?",
+        "text_clean": "Any British presenters on the bbc these days? No?",
+        "author_display_name": "@angelsackson"
+      },
+      {
+        "comment_id": "UgxP6tnxf8UsPdNAiP54AaABAg",
+        "published_at": "2023-10-06T07:41:23Z",
+        "like_count": 7,
+        "reply_count": 4,
+        "text_original": "Do whatever it takes to thwart Putin's fascist imperialist and genocidal ambitions.",
+        "text_clean": "Do whatever it takes to thwart Putin's fascist imperialist and genocidal ambitions.",
+        "author_display_name": "@steveprocter6241"
+      },
+      {
+        "comment_id": "Ugy8gA7bapF7ch2c6U14AaABAg",
+        "published_at": "2023-10-06T07:49:32Z",
+        "like_count": 7,
+        "reply_count": 1,
+        "text_original": "Don't anybody know the president wife when shopping in US with USD 1 million and no West Media cover it what great way to shop😅😅😅",
+        "text_clean": "Don't anybody know the president wife when shopping in US with USD 1 million and no West Media cover it what great way to shop😅😅😅",
+        "author_display_name": "@Wongrich6"
+      },
+      {
+        "comment_id": "Ugz-E5vfWIlHYFrsfqV4AaABAg",
+        "published_at": "2023-10-06T07:53:13Z",
+        "like_count": 3,
+        "reply_count": 0,
+        "text_original": "you, the English are responsible for this , you make two brothers fight",
+        "text_clean": "you, the English are responsible for this , you make two brothers fight",
+        "author_display_name": "@Android539"
+      },
+      {
+        "comment_id": "Ugz4YkbpkqOLcc8bbkB4AaABAg",
+        "published_at": "2023-10-06T07:54:04Z",
+        "like_count": 3,
+        "reply_count": 0,
+        "text_original": "Zelenski is your puppet, dont lie",
+        "text_clean": "Zelenski is your puppet, dont lie",
+        "author_display_name": "@Android539"
+      },
+      {
+        "comment_id": "Ugy1KK8Y6rAhvRM4v6F4AaABAg",
+        "published_at": "2023-10-06T08:00:53Z",
+        "like_count": 6,
+        "reply_count": 1,
+        "text_original": "First it was a Kinzhal, at a memorial. Now it's a 'short range ballistic missile' at a funeral. Right when Z-man was meeting with the EU.",
+        "text_clean": "First it was a Kinzhal, at a memorial. Now it's a 'short range ballistic missile' at a funeral. Right when Z-man was meeting with the EU.",
+        "author_display_name": "@mitchyoung93"
+      },
+      {
+        "comment_id": "Ugzldm3SmRQaHAMN_PN4AaABAg",
+        "published_at": "2023-10-06T08:01:44Z",
+        "like_count": 2,
+        "reply_count": 0,
+        "text_original": "Zelensky choose the war over diplomacy... Unfortunately people of Ukraine suffering, fighting a war for USA+ EU ...\n   This war  should never be happened...",
+        "text_clean": "Zelensky choose the war over diplomacy... Unfortunately people of Ukraine suffering, fighting a war for USA+ EU ... This war should never be happened...",
+        "author_display_name": "@mrchoudhury6611"
+      },
+      {
+        "comment_id": "UgwywLzUuEPSVqYmTAB4AaABAg",
+        "published_at": "2023-10-06T08:02:10Z",
+        "like_count": 7,
+        "reply_count": 1,
+        "text_original": "Stay strong Russia, you are fighting  against lots of dogs (NATO), in the end dogs will run away, \nLots of love from Serbia",
+        "text_clean": "Stay strong Russia, you are fighting against lots of dogs (NATO), in the end dogs will run away, Lots of love from Serbia",
+        "author_display_name": "@liberate_Al_Quds"
+      },
+      {
+        "comment_id": "Ugxnd7MpaSIjBkt-BzB4AaABAg",
+        "published_at": "2023-10-06T08:03:33Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Who was there",
+        "text_clean": "Who was there",
+        "author_display_name": "@coloota"
+      },
+      {
+        "comment_id": "UgxXOt6Rg16idUuUjgx4AaABAg",
+        "published_at": "2023-10-06T08:11:20Z",
+        "like_count": 3,
+        "reply_count": 0,
+        "text_original": "But Ukraine is winning 🤣🤣🤣\nWell done Russia",
+        "text_clean": "But Ukraine is winning 🤣🤣🤣 Well done Russia",
+        "author_display_name": "@zoom777"
+      },
+      {
+        "comment_id": "UgyOQb4MJpyOgSAECZh4AaABAg",
+        "published_at": "2023-10-06T08:14:40Z",
+        "like_count": 1,
+        "reply_count": 0,
+        "text_original": "Stop war blaze,",
+        "text_clean": "Stop war blaze,",
+        "author_display_name": "@alikichu7352"
+      },
+      {
+        "comment_id": "UgwVzkgemgl888Bg3114AaABAg",
+        "published_at": "2023-10-06T08:21:38Z",
+        "like_count": 5,
+        "reply_count": 0,
+        "text_original": "You mean Ukraine hit them , when the truth comes out the comedian will be held accountable",
+        "text_clean": "You mean Ukraine hit them , when the truth comes out the comedian will be held accountable",
+        "author_display_name": "@pauldean8638"
+      },
+      {
+        "comment_id": "Ugw5aLZlU2mDXev2dh54AaABAg",
+        "published_at": "2023-10-06T08:23:40Z",
+        "like_count": 4,
+        "reply_count": 0,
+        "text_original": "They are lucky they haven’t had the shock and awe treatment yet !",
+        "text_clean": "They are lucky they haven’t had the shock and awe treatment yet !",
+        "author_display_name": "@shsh-he5qg"
+      },
+      {
+        "comment_id": "UgykAP-dG2Q9AZrht3J4AaABAg",
+        "published_at": "2023-10-06T08:24:38Z",
+        "like_count": 5,
+        "reply_count": 6,
+        "text_original": "Blame NATO for provoking the bear.",
+        "text_clean": "Blame NATO for provoking the bear.",
+        "author_display_name": "@arnoldrimmer9161"
+      },
+      {
+        "comment_id": "Ugz61q0Z3ApSnc-RlsV4AaABAg",
+        "published_at": "2023-10-06T08:25:59Z",
+        "like_count": 25,
+        "reply_count": 18,
+        "text_original": "So sad😢😢😢😢😢innocent ones who can live much longer happily",
+        "text_clean": "So sad😢😢😢😢😢innocent ones who can live much longer happily",
+        "author_display_name": "@mathewsthomas5210"
+      },
+      {
+        "comment_id": "UgzutLLmUNSgrIuqO8R4AaABAg",
+        "published_at": "2023-10-06T08:26:33Z",
+        "like_count": 12,
+        "reply_count": 7,
+        "text_original": "Calling the Russians animals would be an insult. To animals. How very true. Not sure any more that the Geneva convention precepts restricting what the victim of a brutal barbaric attack can target and not to return the favour to the other side is true. There is time to throw stones and there is time to gather them.... Humanism of the civilized world and its conventions should apply to civilized world. The rest should get an equal response - otherwise these brutes just don’t understand. They only u derstand force. They laugh at European humanism.",
+        "text_clean": "Calling the Russians animals would be an insult. To animals. How very true. Not sure any more that the Geneva convention precepts restricting what the victim of a brutal barbaric attack can target and not to return the favour to the other side is true. There is time to throw stones and there is time to gather them.... Humanism of the civilized world and its conventions should apply to civilized world. The rest should get an equal response - otherwise these brutes just don’t understand. They only u derstand force. They laugh at European humanism.",
+        "author_display_name": "@Sagittis_veritatis"
+      },
+      {
+        "comment_id": "UgwqO4eDaqnkW4em5iN4AaABAg",
+        "published_at": "2023-10-06T08:32:15Z",
+        "like_count": 4,
+        "reply_count": 1,
+        "text_original": "Peace talks please, stop the murder on both sides.",
+        "text_clean": "Peace talks please, stop the murder on both sides.",
+        "author_display_name": "@MrShuttz"
+      },
+      {
+        "comment_id": "UgyzqYTrV0K-J3M8ys14AaABAg",
+        "published_at": "2023-10-06T08:36:29Z",
+        "like_count": 12,
+        "reply_count": 6,
+        "text_original": "And then we find out again that it was a Ukrainian missile. When Zelensky travels around the world and asks for money, such tragedies always happen, this is not the first time.",
+        "text_clean": "And then we find out again that it was a Ukrainian missile. When Zelensky travels around the world and asks for money, such tragedies always happen, this is not the first time.",
+        "author_display_name": "@Vitamin_71"
+      },
+      {
+        "comment_id": "Ugxk8Nh8aO9yop3E2DZ4AaABAg",
+        "published_at": "2023-10-06T08:38:25Z",
+        "like_count": 4,
+        "reply_count": 1,
+        "text_original": "So basically if beeb is reporting this the opposite is true",
+        "text_clean": "So basically if beeb is reporting this the opposite is true",
+        "author_display_name": "@unvaccinatedAndPureBlood"
+      },
+      {
+        "comment_id": "Ugx9YEGhoxq9jc9fEXV4AaABAg",
+        "published_at": "2023-10-06T08:54:59Z",
+        "like_count": 3,
+        "reply_count": 0,
+        "text_original": "Is more likely it was the Ukrainians who attack the poor village, has they losing.",
+        "text_clean": "Is more likely it was the Ukrainians who attack the poor village, has they losing.",
+        "author_display_name": "@carlosfernandes4582"
+      },
+      {
+        "comment_id": "UgyiKJZ6Ycw5j4QOR5V4AaABAg",
+        "published_at": "2023-10-06T08:55:55Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "India in atek america",
+        "text_clean": "India in atek america",
+        "author_display_name": "@goadgoad8104"
+      },
+      {
+        "comment_id": "Ugwst5PLJV6GfRbs00p4AaABAg",
+        "published_at": "2023-10-06T09:05:57Z",
+        "like_count": 1,
+        "reply_count": 0,
+        "text_original": "There is one and one only solution .  Stop  war negotiate",
+        "text_clean": "There is one and one only solution . Stop war negotiate",
+        "author_display_name": "@eshetugobena9989"
+      },
+      {
+        "comment_id": "UgyGBytLc1vMlka1aWZ4AaABAg",
+        "published_at": "2023-10-06T09:15:22Z",
+        "like_count": 1,
+        "reply_count": 1,
+        "text_original": "This does put a smile in my face",
+        "text_clean": "This does put a smile in my face",
+        "author_display_name": "@MrMeatballMasterMort"
+      },
+      {
+        "comment_id": "Ugzt1RbdfYgIjCn4ZHR4AaABAg",
+        "published_at": "2023-10-06T09:17:10Z",
+        "like_count": 1,
+        "reply_count": 1,
+        "text_original": "Ru continues to make me proud 😘😊❤️",
+        "text_clean": "Ru continues to make me proud 😘😊❤️",
+        "author_display_name": "@mattyboy59"
+      },
+      {
+        "comment_id": "Ugw4xjXUeInwzOJfukV4AaABAg",
+        "published_at": "2023-10-06T09:19:02Z",
+        "like_count": 3,
+        "reply_count": 2,
+        "text_original": "Britain should urgently send large amounts of money and ammunition to Ukraine.",
+        "text_clean": "Britain should urgently send large amounts of money and ammunition to Ukraine.",
+        "author_display_name": "@jan_darysh"
+      },
+      {
+        "comment_id": "UgziiMUzXVGZOc8c2qR4AaABAg",
+        "published_at": "2023-10-06T09:30:54Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Good job russia allah with you",
+        "text_clean": "Good job russia allah with you",
+        "author_display_name": "@ghulamrasool630"
+      },
+      {
+        "comment_id": "Ugyli8u37qMrDhPXlHN4AaABAg",
+        "published_at": "2023-10-06T09:37:45Z",
+        "like_count": 21,
+        "reply_count": 14,
+        "text_original": "💔Murdering defenceless village people who are at a Christian funeral. This reveals the true face of the barbaric RF antichrist which heaps evil upon evil upon evil. Ukraine will not yield and neither will their European brothers and sisters. May Almighty God grant swift victory to Ukraine, and a just and lasting peace. Нехай Всемогутній Бог дарує Україні перемогу, а насамперед справедливий і міцний мир. 🕊️🇺🇦",
+        "text_clean": "💔Murdering defenceless village people who are at a Christian funeral. This reveals the true face of the barbaric RF antichrist which heaps evil upon evil upon evil. Ukraine will not yield and neither will their European brothers and sisters. May Almighty God grant swift victory to Ukraine, and a just and lasting peace. Нехай Всемогутній Бог дарує Україні перемогу, а насамперед справедливий і міцний мир. 🕊️🇺🇦",
+        "author_display_name": "@carolinamoonbeam"
+      },
+      {
+        "comment_id": "Ugw3NfO6o_5igeCtiAV4AaABAg",
+        "published_at": "2023-10-06T09:48:52Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "There are rumours that this was the funeral of some far right milita commander.",
+        "text_clean": "There are rumours that this was the funeral of some far right milita commander.",
+        "author_display_name": "@Blau_Max"
+      },
+      {
+        "comment_id": "UgwnQvkHSnOpSI3uITt4AaABAg",
+        "published_at": "2023-10-06T10:12:56Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Maybe Ukraine should stop storing ammos and equipments where civillians are nearby 🤡",
+        "text_clean": "Maybe Ukraine should stop storing ammos and equipments where civillians are nearby 🤡",
+        "author_display_name": "@Mr.Clownensky"
+      },
+      {
+        "comment_id": "UgxiJSjeENK4EIKGhkh4AaABAg",
+        "published_at": "2023-10-06T10:29:03Z",
+        "like_count": 1,
+        "reply_count": 0,
+        "text_original": "Give more weapon to Ukraine!!!",
+        "text_clean": "Give more weapon to Ukraine!!!",
+        "author_display_name": "@turbersis"
+      },
+      {
+        "comment_id": "UgxhKBsbahR6vGYERFJ4AaABAg",
+        "published_at": "2023-10-06T10:59:36Z",
+        "like_count": 1,
+        "reply_count": 3,
+        "text_original": "There’s another way to end this through talk and coming together. We all know Ukraine is not going to win this",
+        "text_clean": "There’s another way to end this through talk and coming together. We all know Ukraine is not going to win this",
+        "author_display_name": "@jonascoscom"
+      },
+      {
+        "comment_id": "Ugz3Nu7NVQXjHKKhPf14AaABAg",
+        "published_at": "2023-10-06T11:37:33Z",
+        "like_count": 6,
+        "reply_count": 8,
+        "text_original": "It uncomfortably reminded me of the Russian Orthodox priest blessing a statue of Stalin recently.",
+        "text_clean": "It uncomfortably reminded me of the Russian Orthodox priest blessing a statue of Stalin recently.",
+        "author_display_name": "@public.public"
+      },
+      {
+        "comment_id": "Ugzktsbcwh31YiNRJ-J4AaABAg",
+        "published_at": "2023-10-06T12:14:00Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "They were at the funeral of a solidier (officer). With multiple other solidiers attending the funeral. The was a successful attack against a militay target. Stop making it out to be anything more than it is.",
+        "text_clean": "They were at the funeral of a solidier (officer). With multiple other solidiers attending the funeral. The was a successful attack against a militay target. Stop making it out to be anything more than it is.",
+        "author_display_name": "@G.A.2841"
+      },
+      {
+        "comment_id": "UgzZ9pqiKczbd4n7Z6V4AaABAg",
+        "published_at": "2023-10-06T12:21:29Z",
+        "like_count": 7,
+        "reply_count": 2,
+        "text_original": "Putins tyranny… lowest of the low , condolences to all Ukrainian families .",
+        "text_clean": "Putins tyranny… lowest of the low , condolences to all Ukrainian families .",
+        "author_display_name": "@jbh2761"
+      },
+      {
+        "comment_id": "Ugz5ygTAZcsAwsSyUEF4AaABAg",
+        "published_at": "2023-10-06T13:09:52Z",
+        "like_count": 11,
+        "reply_count": 0,
+        "text_original": "Well my family is ok. I thanks God for it. Now I pray for all those whose families are not ok including in Iraq,Libya, Yemen, Congo, Ukraine, Haiti,Syria, Sudan etc.....etc.",
+        "text_clean": "Well my family is ok. I thanks God for it. Now I pray for all those whose families are not ok including in Iraq,Libya, Yemen, Congo, Ukraine, Haiti,Syria, Sudan etc.....etc.",
+        "author_display_name": "@Bellatrys"
+      },
+      {
+        "comment_id": "UgwknGjroAViex3pRYd4AaABAg",
+        "published_at": "2023-10-06T14:52:13Z",
+        "like_count": 3,
+        "reply_count": 0,
+        "text_original": "Good news.Rom.10.13. Whosoever shall call on the name of the Lord shall be saved, Jesus is Lord, he also said, him that comes to me, i will in no wise cast out. Tomorrow is not promised, call on him today.",
+        "text_clean": "Good news.Rom.10.13. Whosoever shall call on the name of the Lord shall be saved, Jesus is Lord, he also said, him that comes to me, i will in no wise cast out. Tomorrow is not promised, call on him today.",
+        "author_display_name": "@theresagirtell4102"
+      },
+      {
+        "comment_id": "UgyaLOdPQsMkGtqM55N4AaABAg",
+        "published_at": "2023-10-06T15:13:41Z",
+        "like_count": 11,
+        "reply_count": 2,
+        "text_original": "Zelensky has proven how a fool can destroy his own home....😢😢😢",
+        "text_clean": "Zelensky has proven how a fool can destroy his own home....😢😢😢",
+        "author_display_name": "@biswajitbordoloi8092"
+      },
+      {
+        "comment_id": "UgycFf5gZzfArlTZZ0t4AaABAg",
+        "published_at": "2023-10-06T16:23:11Z",
+        "like_count": 0,
+        "reply_count": 1,
+        "text_original": "😂That’s a huge coffee shop with the village",
+        "text_clean": "😂That’s a huge coffee shop with the village",
+        "author_display_name": "@hardlycode"
+      },
+      {
+        "comment_id": "Ugzwkp4MqI-BPEUISlt4AaABAg",
+        "published_at": "2023-10-06T16:54:37Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Stop this war.Negotiate.concede.war will create only more hate",
+        "text_clean": "Stop this war.Negotiate.concede.war will create only more hate",
+        "author_display_name": "@Sahospital21"
+      },
+      {
+        "comment_id": "Ugw88wZTKftpdf0U4oZ4AaABAg",
+        "published_at": "2023-10-06T17:21:13Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Iraq ,Syria, old laos, Cambodia",
+        "text_clean": "Iraq ,Syria, old laos, Cambodia",
+        "author_display_name": "@milanrahman5118"
+      },
+      {
+        "comment_id": "UgwpQEYU1ueRjc4QSX54AaABAg",
+        "published_at": "2023-10-06T22:40:07Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Its a revenge targeting HQ navy but not totally 100% destroy.",
+        "text_clean": "Its a revenge targeting HQ navy but not totally 100% destroy.",
+        "author_display_name": "@Miguelbamboo"
+      },
+      {
+        "comment_id": "UgyJOhD4g6OtjeY27Rh4AaABAg",
+        "published_at": "2023-10-07T07:58:02Z",
+        "like_count": 1,
+        "reply_count": 1,
+        "text_original": "顿巴斯人民也需要你们的报道，请公平对待",
+        "text_clean": "顿巴斯人民也需要你们的报道，请公平对待",
+        "author_display_name": "@zhaowen5453"
+      },
+      {
+        "comment_id": "UgzbJMgI_hKyY5zu-mt4AaABAg",
+        "published_at": "2023-10-07T14:44:20Z",
+        "like_count": 3,
+        "reply_count": 0,
+        "text_original": "God almighty save and Bless the Ukraine 🇺🇦 🙏",
+        "text_clean": "God almighty save and Bless the Ukraine 🇺🇦 🙏",
+        "author_display_name": "@johnevans1969"
+      },
+      {
+        "comment_id": "UgynZHHrDra0Tl8qK9d4AaABAg",
+        "published_at": "2023-10-09T10:05:42Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "Didnt ukies blow their own people up at a train station with a Tochka-U recently? This has the same smell all over it.",
+        "text_clean": "Didnt ukies blow their own people up at a train station with a Tochka-U recently? This has the same smell all over it.",
+        "author_display_name": "@hellrazor117"
+      },
+      {
+        "comment_id": "UgyUFGhtWK_6aFkPZjh4AaABAg",
+        "published_at": "2023-10-10T08:15:57Z",
+        "like_count": 0,
+        "reply_count": 0,
+        "text_original": "I said this; Russia have the capacity to fight this war for 30 years. Can Ukraine survive for 5 years? It is time for dialogue. It is time Ukraine stopped being puppets of the West.",
+        "text_clean": "I said this; Russia have the capacity to fight this war for 30 years. Can Ukraine survive for 5 years? It is time for dialogue. It is time Ukraine stopped being puppets of the West.",
+        "author_display_name": "@bonnybonny8337"
+      }
+    ]
+  }
+}

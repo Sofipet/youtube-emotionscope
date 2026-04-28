@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "description_cases_total": 3,
+    "agent_cases_total": 4,
+    "average_description_groundedness": 0.8333,
+    "average_description_clarity": 1.0,
+    "average_description_usefulness": 1.0,
+    "average_description_consistency": 0.8333,
+    "average_description_non_overclaiming": 0.8333,
+    "average_agent_groundedness": 0.875,
+    "average_agent_usefulness": 0.875,
+    "average_agent_conciseness": 0.875,
+    "average_agent_non_redundancy": 0.75,
+    "average_agent_consistency": 0.875,
+    "overall_manual_ai_judge_conclusion": "Description quality is strong overall, with perfect clarity and usefulness on this small set, though one case remains less grounded and less tightly aligned with the structured evidence than the others. Agent answers are generally grounded, useful, and fairly concise, but some still sound formulaic, and one answer remains too broad relative to the available representative-comment evidence."
+  },
+  "description_manual_review": [
+    {
+      "case_id": "video_eval_001",
+      "video_id": "1ICnnVI3t_k",
+      "groundedness": 1.0,
+      "clarity": 1.0,
+      "usefulness": 1.0,
+      "consistency": 1.0,
+      "non_overclaiming": 0.5,
+      "notes": "Grounded in anger, sadness, solidarity, and negative valence. Helpful and readable, but the final sentence is slightly broader and more interpretive than the structured evidence strictly requires."
+    },
+    {
+      "case_id": "video_eval_002",
+      "video_id": "KraE1Qxtv8I",
+      "groundedness": 1.0,
+      "clarity": 1.0,
+      "usefulness": 1.0,
+      "consistency": 1.0,
+      "non_overclaiming": 1.0,
+      "notes": "Very strong description. It stays close to the observed anger, sadness, helplessness, frustration, and strong negativity, and it reads like a compact product-ready summary."
+    },
+    {
+      "case_id": "video_eval_003",
+      "video_id": "yiOb0yZCIcc",
+      "groundedness": 0.5,
+      "clarity": 1.0,
+      "usefulness": 1.0,
+      "consistency": 0.5,
+      "non_overclaiming": 1.0,
+      "notes": "The main direction is right: sadness, anger, helplessness, and justice-oriented reaction are all present. Still, the wording is more literary and generalized than the compact structured evidence supports."
+    }
+  ],
+  "agent_manual_review": [
+    {
+      "case_id": "agent_eval_001",
+      "video_id": "1ICnnVI3t_k",
+      "question": "Is the emotional tone closer to moral outrage or collective grief?",
+      "groundedness": 1.0,
+      "usefulness": 1.0,
+      "conciseness": 1.0,
+      "non_redundancy": 0.5,
+      "consistency": 1.0,
+      "notes": "Grounded in anger, sadness, negative valence, and representative comments. The answer is useful and correct, but a bit formulaic."
+    },
+    {
+      "case_id": "agent_eval_002",
+      "video_id": "KraE1Qxtv8I",
+      "question": "Is the emotional tone closer to moral outrage or collective grief?",
+      "groundedness": 1.0,
+      "usefulness": 1.0,
+      "conciseness": 0.5,
+      "non_redundancy": 0.5,
+      "consistency": 1.0,
+      "notes": "Strongly grounded and clearly answers the question. The main weakness is style: it still feels somewhat report-like, and the follow-up suggestions are generic."
+    },
+    {
+      "case_id": "agent_eval_003",
+      "video_id": "yiOb0yZCIcc",
+      "question": "Is the emotional tone closer to moral outrage or collective grief?",
+      "groundedness": 1.0,
+      "usefulness": 1.0,
+      "conciseness": 1.0,
+      "non_redundancy": 1.0,
+      "consistency": 1.0,
+      "notes": "Best of the four. It is grounded, direct, concise, and clearly distinguishes grief from anger without overexplaining."
+    },
+    {
+      "case_id": "agent_eval_004",
+      "video_id": "KraE1Qxtv8I",
+      "question": "Why is anger dominant here, and what do the comments suggest?",
+      "groundedness": 0.5,
+      "usefulness": 0.5,
+      "conciseness": 1.0,
+      "non_redundancy": 1.0,
+      "consistency": 0.5,
+      "notes": "Partly grounded, but noticeably more generic than the other answers. It identifies outrage around attacks on vulnerable children, but it stays broad and does not use the representative comments as specifically as it could."
+    }
+  ],
+  "scoring_scale": {
+    "1.0": "strong",
+    "0.5": "partly useful / borderline",
+    "0.0": "weak"
+  }
+}

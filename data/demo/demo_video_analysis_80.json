@@ -1,0 +1,425 @@
+{
+  "video": {
+    "video_id": "KraE1Qxtv8I",
+    "video_url": "https://www.youtube.com/watch?v=KraE1Qxtv8I",
+    "title": "Children's hospital hit as Russian strikes kill 24 in Ukraine  | BBC News",
+    "channel_title": "BBC News",
+    "published_at": "2024-07-08T12:40:01Z",
+    "comments_fetched": 499,
+    "comments_analyzed": 80
+  },
+  "top_primary_emotions": [
+    {
+      "emotion": "anger",
+      "prevalence": 0.3625,
+      "avg_intensity": 0.7655
+    },
+    {
+      "emotion": "sadness",
+      "prevalence": 0.2,
+      "avg_intensity": 0.8156
+    },
+    {
+      "emotion": "disgust",
+      "prevalence": 0.175,
+      "avg_intensity": 0.65
+    },
+    {
+      "emotion": "trust",
+      "prevalence": 0.1375,
+      "avg_intensity": 0.5273
+    },
+    {
+      "emotion": "anticipation",
+      "prevalence": 0.05,
+      "avg_intensity": 0.45
+    }
+  ],
+  "top_nuanced_emotions": [
+    {
+      "emotion": "frustration",
+      "prevalence": 0.1,
+      "avg_intensity": 0.7875
+    },
+    {
+      "emotion": "skepticism",
+      "prevalence": 0.05,
+      "avg_intensity": 0.7
+    },
+    {
+      "emotion": "helplessness",
+      "prevalence": 0.025,
+      "avg_intensity": 0.85
+    }
+  ],
+  "valence": {
+    "positive": 0.1,
+    "negative": 0.7625,
+    "mixed": 0.0,
+    "neutral": 0.1375
+  },
+  "timeline": [
+    {
+      "bucket_label": "Bucket 1",
+      "comment_count": 10,
+      "top_emotions": [
+        {
+          "emotion": "sadness",
+          "prevalence": 0.4,
+          "avg_intensity": 0.825
+        },
+        {
+          "emotion": "anger",
+          "prevalence": 0.2,
+          "avg_intensity": 0.775
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.2,
+          "avg_intensity": 0.65
+        },
+        {
+          "emotion": "joy",
+          "prevalence": 0.1,
+          "avg_intensity": 0.6
+        },
+        {
+          "emotion": "anticipation",
+          "prevalence": 0.1,
+          "avg_intensity": 0.5
+        }
+      ],
+      "valence": {
+        "positive": 0.1,
+        "negative": 0.8,
+        "mixed": 0.0,
+        "neutral": 0.1
+      }
+    },
+    {
+      "bucket_label": "Bucket 2",
+      "comment_count": 10,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.5,
+          "avg_intensity": 0.76
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.2,
+          "avg_intensity": 0.65
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.1,
+          "avg_intensity": 0.85
+        },
+        {
+          "emotion": "surprise",
+          "prevalence": 0.1,
+          "avg_intensity": 0.5
+        },
+        {
+          "emotion": "anticipation",
+          "prevalence": 0.1,
+          "avg_intensity": 0.4
+        }
+      ],
+      "valence": {
+        "positive": 0.0,
+        "negative": 0.8,
+        "mixed": 0.0,
+        "neutral": 0.2
+      }
+    },
+    {
+      "bucket_label": "Bucket 3",
+      "comment_count": 10,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.4,
+          "avg_intensity": 0.75
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.2,
+          "avg_intensity": 0.65
+        },
+        {
+          "emotion": "trust",
+          "prevalence": 0.2,
+          "avg_intensity": 0.5
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.1,
+          "avg_intensity": 0.6
+        },
+        {
+          "emotion": "anticipation",
+          "prevalence": 0.1,
+          "avg_intensity": 0.5
+        }
+      ],
+      "valence": {
+        "positive": 0.2,
+        "negative": 0.7,
+        "mixed": 0.0,
+        "neutral": 0.1
+      }
+    },
+    {
+      "bucket_label": "Bucket 4",
+      "comment_count": 10,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.4,
+          "avg_intensity": 0.7125
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.3,
+          "avg_intensity": 0.7833
+        },
+        {
+          "emotion": "trust",
+          "prevalence": 0.1,
+          "avg_intensity": 0.6
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.1,
+          "avg_intensity": 0.5
+        },
+        {
+          "emotion": "anticipation",
+          "prevalence": 0.1,
+          "avg_intensity": 0.4
+        }
+      ],
+      "valence": {
+        "positive": 0.1,
+        "negative": 0.8,
+        "mixed": 0.0,
+        "neutral": 0.1
+      }
+    },
+    {
+      "bucket_label": "Bucket 5",
+      "comment_count": 10,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.4,
+          "avg_intensity": 0.8
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.2,
+          "avg_intensity": 0.875
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.2,
+          "avg_intensity": 0.625
+        },
+        {
+          "emotion": "trust",
+          "prevalence": 0.2,
+          "avg_intensity": 0.55
+        }
+      ],
+      "valence": {
+        "positive": 0.2,
+        "negative": 0.8,
+        "mixed": 0.0,
+        "neutral": 0.0
+      }
+    },
+    {
+      "bucket_label": "Bucket 6",
+      "comment_count": 10,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.4,
+          "avg_intensity": 0.8
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.2,
+          "avg_intensity": 0.9
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.2,
+          "avg_intensity": 0.775
+        },
+        {
+          "emotion": "fear",
+          "prevalence": 0.2,
+          "avg_intensity": 0.625
+        }
+      ],
+      "valence": {
+        "positive": 0.0,
+        "negative": 1.0,
+        "mixed": 0.0,
+        "neutral": 0.0
+      }
+    },
+    {
+      "bucket_label": "Bucket 7",
+      "comment_count": 10,
+      "top_emotions": [
+        {
+          "emotion": "trust",
+          "prevalence": 0.4,
+          "avg_intensity": 0.5
+        },
+        {
+          "emotion": "anger",
+          "prevalence": 0.3,
+          "avg_intensity": 0.7
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.1,
+          "avg_intensity": 0.9
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.1,
+          "avg_intensity": 0.7
+        },
+        {
+          "emotion": "surprise",
+          "prevalence": 0.1,
+          "avg_intensity": 0.4
+        }
+      ],
+      "valence": {
+        "positive": 0.1,
+        "negative": 0.5,
+        "mixed": 0.0,
+        "neutral": 0.4
+      }
+    },
+    {
+      "bucket_label": "Bucket 8",
+      "comment_count": 10,
+      "top_emotions": [
+        {
+          "emotion": "anger",
+          "prevalence": 0.3,
+          "avg_intensity": 0.8333
+        },
+        {
+          "emotion": "disgust",
+          "prevalence": 0.3,
+          "avg_intensity": 0.6333
+        },
+        {
+          "emotion": "trust",
+          "prevalence": 0.2,
+          "avg_intensity": 0.55
+        },
+        {
+          "emotion": "sadness",
+          "prevalence": 0.1,
+          "avg_intensity": 0.8
+        },
+        {
+          "emotion": "surprise",
+          "prevalence": 0.1,
+          "avg_intensity": 0.3
+        }
+      ],
+      "valence": {
+        "positive": 0.1,
+        "negative": 0.7,
+        "mixed": 0.0,
+        "neutral": 0.2
+      }
+    }
+  ],
+  "warnings": [],
+  "description": "The comments in this section predominantly reflect a strong sense of anger, with a notable intensity directed at the violence affecting children in Ukraine, as exemplified by comments criticizing Putin and the despicability of targeting hospitals. Complementing this anger, a significant layer of sadness and helplessness emerges, as many commenters express concern about the plight of children not only in Ukraine but also in other conflict zones, highlighting perceived double standards in global reactions.",
+  "representative_comments": [
+    {
+      "comment_id": "UgzK50nYSa7pkpa23D94AaABAg",
+      "primary_emotion": "anger",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 51,
+      "text": "Putin is merely animal."
+    },
+    {
+      "comment_id": "UgwMBKbBgX22BVIVHEN4AaABAg",
+      "primary_emotion": "sadness",
+      "nuanced_emotion": "helplessness",
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 18,
+      "text": "They will speak on this for months while they never mentioned the hospitals in Gaza.(Poor kids.)"
+    },
+    {
+      "comment_id": "UgzHUSyxWxn2YztneTV4AaABAg",
+      "primary_emotion": "anger",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 17,
+      "text": "What utter BULLSHIT!"
+    },
+    {
+      "comment_id": "UgxHiQggpRcJmbMpw3B4AaABAg",
+      "primary_emotion": "anger",
+      "nuanced_emotion": "moral outrage",
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 12,
+      "text": "Despicable act. I honestly do not understand, why strike any hospital, but a childrens cancer hospital?, I mean, come on 🤬"
+    },
+    {
+      "comment_id": "UgyLJFD3q9DVDeaNlpt4AaABAg",
+      "primary_emotion": "sadness",
+      "nuanced_emotion": "frustration",
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 3,
+      "text": "I don't know how as humanity we are allowing a GENOCIDE in GAZA and at the same time being horrified about what is going on in Ukraine ( rightfully so) ..peace to all."
+    },
+    {
+      "comment_id": "Ugw5jDQyv5lMzQgs8st4AaABAg",
+      "primary_emotion": "sadness",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 2,
+      "text": "😢😢😢🙏🙏🙏🙏🙏"
+    },
+    {
+      "comment_id": "UgzLqh1-5Nc5nsHJJ794AaABAg",
+      "primary_emotion": "sadness",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 2,
+      "text": "Why is no one highlighting the dying children of Palestine from hunger? All countries are  highlighting this strike? The double standards!!! 😢😢😢"
+    },
+    {
+      "comment_id": "Ugw8C4hQbsvr-iHg7tt4AaABAg",
+      "primary_emotion": "sadness",
+      "nuanced_emotion": null,
+      "emotion_intensity": 0.9,
+      "valence": "negative",
+      "like_count": 1,
+      "text": "😭😭😭😭😭😭😭😭 hey jesus Christ please stop the war Ukraine or Russia Holy Jesus Christ 🙏 please stop the war"
+    }
+  ]
+}

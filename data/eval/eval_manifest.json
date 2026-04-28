@@ -1,0 +1,181 @@
+{
+  "evaluation_name": "emotionscope_mvp_eval_v1",
+  "purpose": "Structured MVP evaluation of EmotionScope using 3 videos, 30 comments, and 4 bounded agent cases.",
+  "frozen_version": {
+    "analysis_cache_keys": [
+      "1ICnnVI3t_k__4f3bc1893741b854",
+      "KraE1Qxtv8I__592becdfe55ce8f7",
+      "yiOb0yZCIcc__ec7a247e1770b2e1"
+    ],
+    "agent_cache_files": [
+      "1ICnnVI3t_k__c4fd1b917c3fa5d3.json",
+      "KraE1Qxtv8I__18996b2f321a20d5.json",
+      "KraE1Qxtv8I__bbbff95061245947.json",
+      "yiOb0yZCIcc__c2c762cea3378be6.json"
+    ],
+    "analysis_sample_size_per_video": 60,
+    "freeze_note": "Evaluate the currently cached version without changing prompts, cache logic, or sample size."
+  },
+  "videos": [
+    {
+      "case_id": "video_eval_001",
+      "video_id": "1ICnnVI3t_k",
+      "video_url": "https://www.youtube.com/watch?v=1ICnnVI3t_k",
+      "title": "Ukraine: 'Every family' in village of Hroza affected by missile attack - BBC News",
+      "expected_dominant_emotion_options": [
+        "anger",
+        "sadness"
+      ],
+      "expected_secondary_emotion_options": [
+        "anger",
+        "sadness",
+        "solidarity"
+      ],
+      "expected_negative_valence_min": 0.45,
+      "expected_language_contains": [
+        "English"
+      ],
+      "expected_warning_options": [],
+      "human_expectation_note": "The discourse is expected to be strongly negative, mixing outrage and grief, with some solidarity-related framing."
+    },
+    {
+      "case_id": "video_eval_002",
+      "video_id": "KraE1Qxtv8I",
+      "video_url": "https://www.youtube.com/watch?v=KraE1Qxtv8I",
+      "title": "Children's hospital hit as Russian strikes kill 24 in Ukraine | BBC News",
+      "expected_dominant_emotion_options": [
+        "anger"
+      ],
+      "expected_secondary_emotion_options": [
+        "sadness",
+        "frustration"
+      ],
+      "expected_negative_valence_min": 0.55,
+      "expected_language_contains": [
+        "English"
+      ],
+      "expected_warning_options": [],
+      "human_expectation_note": "The discourse is expected to center on outrage at an attack on children, with grief present but secondary to moral condemnation."
+    },
+    {
+      "case_id": "video_eval_003",
+      "video_id": "yiOb0yZCIcc",
+      "video_url": "https://www.youtube.com/watch?v=yiOb0yZCIcc",
+      "title": "Росіяни поцілили по дитячій лікарні «Охматдит» у Києві",
+      "expected_dominant_emotion_options": [
+        "sadness",
+        "anger"
+      ],
+      "expected_secondary_emotion_options": [
+        "sadness",
+        "anger",
+        "fear",
+        "helplessness"
+      ],
+      "expected_negative_valence_min": 0.7,
+      "expected_language_contains": [
+        "Ukrainian",
+        "Russian"
+      ],
+      "expected_warning_options": [],
+      "human_expectation_note": "The discourse is expected to be highly negative and emotionally intense, with grief, anger, helplessness, and calls for justice."
+    }
+  ],
+  "agent_cases": [
+    {
+      "case_id": "agent_eval_001",
+      "video_id": "1ICnnVI3t_k",
+      "question": "Is the emotional tone closer to moral outrage or collective grief?",
+      "expected_focus_options": [
+        "moral outrage",
+        "mixed but leaning moral outrage"
+      ],
+      "required_concepts": [
+        "anger",
+        "sadness",
+        "negative valence"
+      ],
+      "acceptable_tools": [
+        "get_top_primary_emotions",
+        "get_valence_distribution",
+        "get_representative_comments"
+      ],
+      "human_expectation_note": "The answer should recognize both grief and outrage, but should plausibly lean toward outrage if condemnation dominates."
+    },
+    {
+      "case_id": "agent_eval_002",
+      "video_id": "KraE1Qxtv8I",
+      "question": "Is the emotional tone closer to moral outrage or collective grief?",
+      "expected_focus_options": [
+        "moral outrage"
+      ],
+      "required_concepts": [
+        "anger",
+        "sadness",
+        "negative valence"
+      ],
+      "acceptable_tools": [
+        "get_top_primary_emotions",
+        "get_valence_distribution",
+        "get_representative_comments"
+      ],
+      "human_expectation_note": "The answer should clearly lean toward moral outrage, while still acknowledging grief."
+    },
+    {
+      "case_id": "agent_eval_003",
+      "video_id": "yiOb0yZCIcc",
+      "question": "Is the emotional tone closer to moral outrage or collective grief?",
+      "expected_focus_options": [
+        "collective grief",
+        "mixed but leaning collective grief"
+      ],
+      "required_concepts": [
+        "sadness",
+        "anger",
+        "negative valence"
+      ],
+      "acceptable_tools": [
+        "get_top_primary_emotions",
+        "get_valence_distribution",
+        "get_representative_comments"
+      ],
+      "human_expectation_note": "The answer should recognize strong anger, but should plausibly lean toward collective grief if sorrow and helplessness dominate the discourse."
+    },
+    {
+      "case_id": "agent_eval_004",
+      "video_id": "KraE1Qxtv8I",
+      "question": "Why is anger dominant here, and what do the comments suggest?",
+      "expected_focus_options": [
+        "comments frame the event as an unjustifiable attack on vulnerable children",
+        "comments express direct outrage and condemnation"
+      ],
+      "required_concepts": [
+        "anger",
+        "children",
+        "outrage"
+      ],
+      "acceptable_tools": [
+        "get_top_primary_emotions",
+        "get_valence_distribution",
+        "get_representative_comments"
+      ],
+      "human_expectation_note": "The answer should explain anger through viewers' condemnation of harm to children and should cite comments as evidence, not external facts."
+    }
+  ],
+  "comment_sampling_plan": {
+    "comments_total": 30,
+    "per_video": 10,
+    "distribution_per_video": {
+      "clear_high_emotion": 4,
+      "short_or_ambiguous": 2,
+      "nuanced_signal": 2,
+      "difficult_or_noisy": 2
+    },
+    "selection_rule": "Comments must come from actual stored classified-comment artifacts, not from manually copied text."
+  },
+  "scoring_scale": {
+    "1.0": "strong / clearly appropriate",
+    "0.5": "partly plausible / borderline",
+    "0.0": "weak / clearly problematic"
+  }
+}

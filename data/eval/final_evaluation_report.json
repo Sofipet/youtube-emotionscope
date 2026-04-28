@@ -1,0 +1,88 @@
+{
+  "evaluation_name": "emotionscope_mvp_eval_v1",
+  "status": "completed",
+  "scope": {
+    "videos": 3,
+    "comment_cases": 30,
+    "agent_cases": 4
+  },
+  "sources": {
+    "manifest_file": "data/eval/eval_manifest.json",
+    "comment_cases_file": "data/eval/comment_eval_cases.json",
+    "auto_eval_file": "data/eval/auto_eval_results.json",
+    "case_comparison_file": "data/eval/case_comparison_results.json",
+    "manual_review_file": "data/eval/final_manual_review_with_summary_ai_judge.json"
+  },
+  "automatic_structural_summary": {
+    "comment_required_fields_present_rate": 1.0,
+    "comment_detected_language_present_rate": 1.0,
+    "comment_expected_primary_options_valid_rate": 1.0,
+    "comment_expected_valence_options_valid_rate": 1.0,
+    "comment_expected_intensity_range_valid_rate": 1.0,
+    "comment_expected_nuanced_options_valid_rate": 1.0,
+    "video_dominant_match_rate": 1.0,
+    "video_negative_valence_ok_rate": 1.0,
+    "video_languages_ok_rate": 1.0,
+    "video_prevalence_ok_rate": 1.0,
+    "video_intensity_ok_rate": 1.0,
+    "video_valence_ok_rate": 1.0,
+    "video_timeline_structure_ok_rate": 1.0,
+    "video_representative_comments_valid_rate": 1.0,
+    "agent_answer_present_rate": 1.0,
+    "agent_followups_valid_rate": 1.0,
+    "agent_acceptable_tools_overlap_rate": 1.0,
+    "agent_only_known_expected_tools_rate": 1.0,
+    "agent_required_concepts_present_rate": 1.0
+  },
+  "automatic_case_comparison_summary": {
+    "comment_found_rate": 1.0,
+    "comment_primary_match_rate": 1.0,
+    "comment_valence_match_rate": 1.0,
+    "comment_intensity_match_rate": 1.0,
+    "comment_nuanced_match_rate": 1.0,
+    "video_dominant_match_rate": 1.0,
+    "video_secondary_match_rate": 1.0,
+    "video_negative_valence_ok_rate": 1.0,
+    "video_language_match_rate": 1.0,
+    "video_warnings_match_rate": 1.0,
+    "agent_required_concepts_present_rate": 1.0,
+    "agent_focus_match_rate": 1.0,
+    "agent_tools_overlap_rate": 1.0,
+    "agent_tools_subset_ok_rate": 1.0
+  },
+  "manual_review_summary": {
+    "description_cases_total": 3,
+    "agent_cases_total": 4,
+    "average_description_groundedness": 0.8333,
+    "average_description_clarity": 1.0,
+    "average_description_usefulness": 1.0,
+    "average_description_consistency": 0.8333,
+    "average_description_non_overclaiming": 0.8333,
+    "average_agent_groundedness": 0.875,
+    "average_agent_usefulness": 0.875,
+    "average_agent_conciseness": 0.875,
+    "average_agent_non_redundancy": 0.75,
+    "average_agent_consistency": 0.875,
+    "overall_manual_ai_judge_conclusion": "Description quality is strong overall, with perfect clarity and usefulness on this small set, though one case remains less grounded and less tightly aligned with the structured evidence than the others. Agent answers are generally grounded, useful, and fairly concise, but some still sound formulaic, and one answer remains too broad relative to the available representative-comment evidence."
+  },
+  "strengths": [
+    "All structural and validity checks passed after evaluation-set cleanup.",
+    "All expected-vs-generated automatic comparison checks passed on the selected evaluation set.",
+    "Comment-level outputs align very well with the fixed evaluation cases.",
+    "Video-level dashboards are internally consistent and well supported by representative comments.",
+    "The insight agent consistently uses sensible tools and includes the expected evidence concepts."
+  ],
+  "weaknesses": [
+    "The current evaluation set is relatively small and optimistic, so it should be treated as an MVP validation set rather than a hard benchmark.",
+    "One description is noticeably less grounded and less tightly aligned with the structured evidence than the others.",
+    "Agent answer style is uneven: some responses still sound formulaic.",
+    "Follow-up suggestions remain generic and repetitive.",
+    "One agent answer is broader and less specific than the underlying representative comments would allow."
+  ],
+  "release_decision": {
+    "acceptable_mvp_version": true,
+    "needs_refinement_before_deployment": false,
+    "recommended_next_refinement": "Improve description style consistency and make agent answers and follow-up suggestions more specific, less formulaic, and more tightly grounded in representative comments."
+  },
+  "final_conclusion": "EmotionScope passes this MVP evaluation cleanly at the structural, comparison, and manual-review levels. The product is strongest in schema stability, grounded dashboard outputs, and bounded tool-based agent behavior. The main remaining weakness is not core analytical correctness but presentation quality: descriptions and especially agent answers should become more specific, less generic, and more stylistically consistent before future iterations."
+}
