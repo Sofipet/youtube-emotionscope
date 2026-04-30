@@ -20,7 +20,6 @@ The goal is to assess whether it is:
 - useful
 - operationally practical
 
----
 
 ## Evaluation scope
 
@@ -32,7 +31,6 @@ This MVP evaluation uses:
 
 This is a small but structured evaluation set intended for MVP validation, not large-scale benchmarking.
 
----
 
 ## Evaluation layers
 
@@ -72,7 +70,6 @@ For agent outputs:
 - required_fields_present = 100%
 - numeric_range_validity = 100%
 
----
 
 ### 2. Comment-level classification
 
@@ -109,7 +106,6 @@ For agent outputs:
 - average_intensity_score >= 0.70
 - average_nuanced_usefulness_score >= 0.60
 
----
 
 ### 3. Video-level aggregation
 
@@ -154,7 +150,6 @@ For agent outputs:
 - average_warning_appropriateness >= 0.70
 - average_language_plausibility >= 0.70
 
----
 
 ### 4. Description quality
 
@@ -194,7 +189,6 @@ For agent outputs:
 - average_description_consistency >= 0.80
 - average_description_non_overclaiming >= 0.85
 
----
 
 ### 5. Insight-agent behavior
 
@@ -237,7 +231,6 @@ For agent outputs:
 - average_agent_consistency >= 0.80
 - average_tool_use_sanity >= 0.75
 
----
 
 ### 6. Runtime, cache, and cost behavior
 
@@ -277,7 +270,6 @@ For agent layer:
 
 No strict cost threshold is required for MVP, but cost should remain stable and interpretable.
 
----
 
 ## Release gates
 
@@ -294,7 +286,6 @@ Reject a candidate version if any of the following occur:
 - cache behavior is broken or inconsistent
 - latency becomes unacceptable relative to quality gains
 
----
 
 ## Change policy
 
@@ -333,7 +324,6 @@ After the change, rerun the same evaluation set and compare.
   - maintainability
   - stability
 
----
 
 ## Optional tracking
 
@@ -350,7 +340,6 @@ When useful, also track:
 - prompt version
 - agent version tag
 
----
 
 ## Manual review policy
 
@@ -366,7 +355,6 @@ Manual review is required for:
 
 This is necessary because many key qualities in EmotionScope are interpretive and cannot be fully captured by automatic checks alone.
 
----
 
 # Practical interpretation rule
 
