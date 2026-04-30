@@ -10,14 +10,6 @@ The system is designed as:
 - with a stable deterministic core
 - and a bounded insight-agent layer on top for grounded follow-up questions
 
-It is not designed as:
-
-- a general chatbot
-- a retrieval system
-- a fully autonomous reasoning agent
-
----
-
 ## Final MVP outputs
 
 The MVP has two core product outputs.
@@ -54,7 +46,6 @@ This response contains:
 
 This layer must stay grounded in the structured analysis payload and must not bypass it.
 
----
 
 ## High-level flow
 
@@ -76,7 +67,6 @@ Then, optionally:
 The deterministic analysis pipeline is the core analytical engine of the product.  
 The insight-agent layer sits on top of that core.
 
----
 
 ## Architectural layers
 
@@ -96,7 +86,6 @@ Main file:
 
 This layer should stay thin and should not contain analytical logic.
 
----
 
 ### 2. Provider layer
 
@@ -122,9 +111,6 @@ Main files:
 - classify comments into emotion outputs
 - generate the short final description
 
-This layer should isolate vendor-specific behavior from the rest of the codebase.
-
----
 
 ### 3. Pipeline layer
 
@@ -175,8 +161,6 @@ Responsibilities:
 - deduplicate or collapse near-duplicates
 - optionally flag unusual content
 - produce the final analysis subset
-
-This stage is important for both quality and cost control.
 
 #### Emotion pipeline
 
@@ -242,7 +226,6 @@ Responsibilities:
 - stay grounded in the aggregates and representative comments
 - remain concise and warning-aware
 
----
 
 ### 4. Storage layer
 
@@ -255,7 +238,6 @@ Responsible for:
 Main files:
 
 - `app/storage/cache.py`
-- `app/storage/db.py`
 
 For the MVP, this should stay lightweight.
 
@@ -271,7 +253,6 @@ Possible uses:
 - support stable demo results
 - support re-rendering without rerunning expensive stages
 
----
 
 ### 5. Analysis orchestration layer
 
@@ -299,7 +280,6 @@ Its job is to:
 
 This layer sits above the pipeline but does not replace it.
 
----
 
 ### 6. Insight-agent layer
 
@@ -334,7 +314,6 @@ It must not:
 
 This means the agent layer sits above the structured payload and depends on it.
 
----
 
 ### 7. Frontend layer
 
@@ -353,9 +332,6 @@ Main files:
 - `app/web/app.js`
 - `app/web/styles.css`
 
-The frontend should not contain core analytical logic. It should render the structured payload and the bounded agent response.
-
----
 
 ## Core data flow
 
@@ -384,7 +360,6 @@ The frontend should not contain core analytical logic. It should render the stru
 The structured analysis response is the main product contract and must remain stable.  
 The insight-agent response is a secondary, grounded interpretation layer built on top of it.
 
----
 
 ## Why the pipeline is deterministic first
 
@@ -400,7 +375,6 @@ This is especially important because the main use case includes analytical explo
 
 The insight-agent layer should extend the product, not replace the deterministic pipeline.
 
----
 
 ## Recommended build order
 
@@ -422,13 +396,10 @@ To keep the project structured, implementation should proceed in this order:
 14. insight-agent layer
 15. evaluation
 
-This order keeps the system understandable and reduces rework.
-
----
 
 ## Expected extension path
 
-Once the MVP is stable, the architecture should support:
+Once the MVP is stable, the architecture might support:
 
 - comparing multiple videos
 - multilingual analysis modes
@@ -437,6 +408,4 @@ Once the MVP is stable, the architecture should support:
 - open-source model benchmarking
 - richer tool-based agent behavior on top of the core payload
 - richer warning layers such as toxicity or uncertainty signals
-- analyst workflows over multiple saved video analyses
 
-The architecture is therefore modular from the start, while the first version stays focused.
