@@ -184,7 +184,7 @@ The interface shows:
 - timeline
 - representative comments
 - short description
-- optional insight answers in a chat-style section below the dashboard
+- optional insight answers in a chat-style section
 
 ## Run locally
 
