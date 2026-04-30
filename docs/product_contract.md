@@ -4,9 +4,8 @@
 
 Given a YouTube video link, the system analyzes the emotional structure of the comment section and returns a structured analytics payload that can power a dashboard, a short contextual description, and a grounded follow-up insight layer.
 
-The product is designed as a **structured analytics tool with a bounded insight-agent layer**, not as a general chatbot and not as a retrieval system.
+The product is designed as a **structured analytics tool with a bounded insight-agent layer**.
 
----
 
 ## Primary user
 
@@ -16,7 +15,6 @@ The product is designed as a **structured analytics tool with a bounded insight-
 - student
 - product/demo viewer
 
----
 
 ## Input
 
@@ -32,7 +30,6 @@ For the MVP, the required input is:
 
 - `video_url: string`
 
----
 
 ## Core outputs
 
@@ -63,7 +60,6 @@ The insight-agent response contains:
 
 This layer must remain grounded in the structured video analysis payload.
 
----
 
 ## Core design principles
 
@@ -76,7 +72,6 @@ This layer must remain grounded in the structured video analysis payload.
 - Keep the final product payload compact and dashboard-ready.
 - Keep the insight-agent layer bounded to the current video analysis payload.
 
----
 
 ## Emotion framework
 
@@ -143,7 +138,6 @@ Range:
 Interpretation:
 - confidence in the assigned primary emotion / valence judgment
 
----
 
 ## Comment-level schema
 
@@ -167,7 +161,7 @@ Optional future fields:
 - translation
 - toxicity / stance / irony flags
 
----
+
 
 ## Final video-level output schema
 
@@ -259,7 +253,6 @@ Each item contains:
 - `like_count`
 - `text`
 
----
 
 ## Insight-agent response schema
 
@@ -285,7 +278,6 @@ The insight-agent should not:
 - browse the web
 - answer unrelated general questions
 
----
 
 ## Dashboard payload expectations
 
@@ -301,22 +293,18 @@ The frontend should be able to render at least:
 - language chips
 - insight-agent panel
 
-The API output must therefore be complete enough that the frontend does not need to derive major analytical logic itself.
 
----
 
 ## Non-goals for MVP
 
 - no cross-video comparison in the main product flow
 - no real-time streaming analysis
-- no retrieval layer
 - no ticketing / CRM integration
 - no arbitrary open-ended emotion taxonomies
 - no unlimited public live inference
 - no autonomous posting or moderation actions
 - no open-domain conversational assistant behavior
 
----
 
 ## Initial deployment shape
 
@@ -328,7 +316,6 @@ The API output must therefore be complete enough that the frontend does not need
 - cached or stored analysis results where useful
 - bounded insight-agent layer over the current video payload
 
----
 
 ## Future extensions
 
@@ -341,3 +328,4 @@ Possible future extensions include:
 - richer agent planning over analysis modes
 - toxicity / toxicity-warning layer
 - broader analyst workflows over multiple saved videos
+  
